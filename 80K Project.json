@@ -621,7 +621,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.2,
         "snap": false,
-        "zoomFactor": 0.5690468466185522,
+        "zoomFactor": 1.877837874282256,
         "windowMask": false
       },
       "objectsGroups": [
@@ -730,8 +730,8 @@
           "name": "Water1",
           "persistentUuid": "fb607f81-0e83-43a2-94c2-3c67a797f7d3",
           "width": 432,
-          "x": 337,
-          "y": 417,
+          "x": 333,
+          "y": 383,
           "zOrder": -10000,
           "numberProperties": [],
           "stringProperties": [],
