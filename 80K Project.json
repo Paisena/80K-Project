@@ -531,6 +531,15 @@
           "identifier": "https://asset-resources.gdevelop.io/public-resources/Resource bars/pixel art/c090d31cafed0c8ef7bb4d5af75a7dbf7149bcc03a7d5d63ae997d59100e362e_Flat Bar White Border.png",
           "name": "Flat Bar White Border.png"
         }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/sign.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\sign.png",
+        "smoothed": true,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -621,7 +630,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.2,
         "snap": false,
-        "zoomFactor": 1.877837874282256,
+        "zoomFactor": 1.9411591872402365,
         "windowMask": false
       },
       "objectsGroups": [
@@ -1804,14 +1813,15 @@
         },
         {
           "angle": 0,
-          "customSize": false,
-          "height": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 14,
           "layer": "",
           "name": "NPC",
           "persistentUuid": "196cafb9-af98-435d-8107-4675c15d4990",
-          "width": 0,
-          "x": 681,
-          "y": 208,
+          "width": 15,
+          "x": 675,
+          "y": 199,
           "zOrder": 44,
           "numberProperties": [],
           "stringProperties": [],
@@ -1929,12 +1939,13 @@
         {
           "angle": 0,
           "customSize": true,
+          "depth": 1,
           "height": 14,
           "layer": "Collision",
           "name": "CollisionDetect",
           "persistentUuid": "6e019a57-fd94-42ab-ad44-c926536191b4",
-          "width": 18,
-          "x": 672,
+          "width": 15,
+          "x": 675,
           "y": 199,
           "zOrder": 40,
           "numberProperties": [],
@@ -2219,8 +2230,8 @@
           "name": "CollisionDetect",
           "persistentUuid": "8256bb0e-129f-40a9-a043-6d00aa892d9e",
           "width": 64,
-          "x": 633,
-          "y": 173,
+          "x": 636,
+          "y": 164,
           "zOrder": 37,
           "numberProperties": [],
           "stringProperties": [],
@@ -3225,7 +3236,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "ACharDown1.png",
+                      "image": "assets\\sign.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -3716,7 +3727,7 @@
             }
           ],
           "content": {
-            "text": "Do you want to battle?\nI have the best\ncreatures in town!",
+            "text": "This is a example of the dialogue system",
             "opacity": 255,
             "scale": 2,
             "fontSize": 20,
@@ -3927,7 +3938,7 @@
               "italic": false,
               "smoothed": true,
               "underlined": false,
-              "string": "No",
+              "string": "Exit",
               "font": "",
               "textAlignment": "left",
               "characterSize": 26,
@@ -3950,7 +3961,7 @@
                 "shadowOpacity": 127,
                 "smoothed": true,
                 "underlined": false,
-                "text": "No",
+                "text": "Exit",
                 "font": "",
                 "textAlignment": "left",
                 "characterSize": 26,
@@ -4715,7 +4726,7 @@
                         "",
                         "Talk.wav",
                         "",
-                        "50",
+                        "5",
                         "1"
                       ]
                     }
@@ -4747,15 +4758,6 @@
                         "value": "Montre"
                       },
                       "parameters": [
-                        "YesButton",
-                        ""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "Montre"
-                      },
-                      "parameters": [
                         "NoButton",
                         ""
                       ]
@@ -4770,7 +4772,7 @@
                         "value": "Visible"
                       },
                       "parameters": [
-                        "YesButton"
+                        "NoButton"
                       ]
                     }
                   ],
