@@ -572,6 +572,149 @@
         "name": "fishing_rod2.png",
         "smoothed": true,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Yellow Button_Hovered.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Yellow Button_Hovered.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/c1e14acb64b9963341656c997853154dc4c86cd1c46fb12bfbe012d99712ef61_Yellow Button_Hovered.png",
+          "name": "Yellow Button_Hovered.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Yellow Button_Idle.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Yellow Button_Idle.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/1cacfd123a1eb708837337c27982f6871f5127c5890dbf0775e0f411958fcbf1_Yellow Button_Idle.png",
+          "name": "Yellow Button_Idle.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Yellow Button_Pressed.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Yellow Button_Pressed.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/928c3ea4db1da835c9f8cc5b7089a47228350209d2ff489e1484c31e5ce41b3d_Yellow Button_Pressed.png",
+          "name": "Yellow Button_Pressed.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Dot Bar Blue Border.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Dot Bar Blue Border.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Resource bars/pixel art/aa81b97c3211cf1e7cd040b96f5409851e3f1141c496b064157588294f09e662_Dot Bar Blue Border.png",
+          "name": "Dot Bar Blue Border.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Dot Bar Blue Fill Bar.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Dot Bar Blue Fill Bar.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Resource bars/pixel art/0f15d828199d38d229469b48c953574c22a34b8daeb8941f3eb40df01a8f7d22_Dot Bar Blue Fill Bar.png",
+          "name": "Dot Bar Blue Fill Bar.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Lake Trout_No Shadow.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Lake Trout_No Shadow.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/32x32 Fantasy Icons Pack v2/Icons/Fishing Items/d99a76be3d605740b050e452eae3ed0033014690b0a83a4871f06d380e161a6e_Lake Trout_No Shadow.png",
+          "name": "Lake Trout_No Shadow.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Lake Trout_Shadow.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Lake Trout_Shadow.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/32x32 Fantasy Icons Pack v2/Icons/Fishing Items/b370d1d88e4a43d2a6bbf85bd65f043a8082a9d941f3bf7abecf01221b8c034d_Lake Trout_Shadow.png",
+          "name": "Lake Trout_Shadow.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Octopus_No Shadow.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Octopus_No Shadow.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/32x32 Fantasy Icons Pack v2/Icons/Fishing Items/ba9df94da2498403043ffc14a5128e01ad21764b0a776933519c5f6454d637f7_Octopus_No Shadow.png",
+          "name": "Octopus_No Shadow.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Octopus_Shadow.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Octopus_Shadow.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/32x32 Fantasy Icons Pack v2/Icons/Fishing Items/f592150eafa101cc98403eb29baf700220cb9d7794771eb5c438b177368b02ea_Octopus_Shadow.png",
+          "name": "Octopus_Shadow.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tropical Fish_No Shadow.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tropical Fish_No Shadow.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/32x32 Fantasy Icons Pack v2/Icons/Fishing Items/dde2051fd2f2ee163e5e91e26dc188d14b759add8dd3c789890d72d2fecef567_Tropical Fish_No Shadow.png",
+          "name": "Tropical Fish_No Shadow.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tropical Fish_Shadow.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tropical Fish_Shadow.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/32x32 Fantasy Icons Pack v2/Icons/Fishing Items/ee387da34307ed6df68d916512849c89eca7b931be06de04ec5521c460dab725_Tropical Fish_Shadow.png",
+          "name": "Tropical Fish_Shadow.png"
+        }
       }
     ],
     "resourceFolders": []
@@ -662,7 +805,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.2,
         "snap": false,
-        "zoomFactor": 3.088189613173279,
+        "zoomFactor": 3.5262750820889113,
         "windowMask": false
       },
       "objectsGroups": [
@@ -2601,6 +2744,86 @@
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 32,
+          "height": 17,
+          "layer": "",
+          "name": "BlueDotBar",
+          "persistentUuid": "0094646f-56de-4f38-a054-82cb169ac73c",
+          "width": 73,
+          "x": 860,
+          "y": 329,
+          "zOrder": 2003,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 32,
+          "height": 52,
+          "layer": "",
+          "name": "YellowButton",
+          "persistentUuid": "fc81300d-d104-46b7-970d-98c987a43979",
+          "width": 102,
+          "x": 831,
+          "y": 348,
+          "zOrder": 2004,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 10,
+          "layer": "",
+          "name": "LakeTrout",
+          "persistentUuid": "0aac4e82-e096-48ab-8a81-05869d363dcb",
+          "width": 10,
+          "x": 842,
+          "y": 413,
+          "zOrder": 2005,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 20,
+          "layer": "",
+          "name": "Octopus",
+          "persistentUuid": "d8a1c852-b6e9-4ad0-86a8-97b72d29692c",
+          "width": 22,
+          "x": 870,
+          "y": 410,
+          "zOrder": 2006,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 12,
+          "layer": "",
+          "name": "TropicalFish",
+          "persistentUuid": "cfbc2093-b937-4d9a-888e-2dce5127b6d4",
+          "width": 13,
+          "x": 849,
+          "y": 446,
+          "zOrder": 2007,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
         }
       ],
       "objects": [
@@ -4219,6 +4442,506 @@
               ]
             }
           ]
+        },
+        {
+          "assetStoreId": "615de0316452630b9f4f6a39decc82e2449b82c1afd1ff24d6470dad2922177b",
+          "name": "YellowButton",
+          "type": "PanelSpriteButton::PanelSpriteButton",
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "content": {
+            "LeftPadding": 16,
+            "RightPadding": 16,
+            "PressedLabelOffsetY": 10,
+            "BottomPadding": 32,
+            "TopPadding": 16,
+            "HoveredFadeOutDuration": 0.25
+          },
+          "childrenContent": {
+            "Hovered": {
+              "bottomMargin": 32,
+              "height": 106,
+              "leftMargin": 16,
+              "rightMargin": 16,
+              "texture": "Yellow Button_Hovered.png",
+              "tiled": true,
+              "topMargin": 16,
+              "width": 256
+            },
+            "Idle": {
+              "bottomMargin": 32,
+              "height": 106,
+              "leftMargin": 16,
+              "rightMargin": 16,
+              "texture": "Yellow Button_Idle.png",
+              "tiled": true,
+              "topMargin": 16,
+              "width": 256
+            },
+            "Label": {
+              "bold": false,
+              "italic": false,
+              "smoothed": true,
+              "underlined": false,
+              "string": "Fish!",
+              "font": "",
+              "textAlignment": "center",
+              "characterSize": 20,
+              "color": {
+                "b": 42,
+                "g": 87,
+                "r": 139
+              },
+              "content": {
+                "bold": false,
+                "isOutlineEnabled": false,
+                "isShadowEnabled": false,
+                "italic": false,
+                "outlineColor": "255;255;255",
+                "outlineThickness": 2,
+                "shadowAngle": 90,
+                "shadowBlurRadius": 2,
+                "shadowColor": "0;0;0",
+                "shadowDistance": 4,
+                "shadowOpacity": 127,
+                "smoothed": true,
+                "underlined": false,
+                "text": "Fish!",
+                "font": "",
+                "textAlignment": "center",
+                "characterSize": 20,
+                "color": "139;87;42"
+              }
+            },
+            "Pressed": {
+              "bottomMargin": 16,
+              "height": 106,
+              "leftMargin": 16,
+              "rightMargin": 16,
+              "texture": "Yellow Button_Pressed.png",
+              "tiled": true,
+              "topMargin": 32,
+              "width": 256
+            }
+          }
+        },
+        {
+          "assetStoreId": "98213fe7f1e2289ef501a2e0a96ed2292535e720bfa616da42cf780d99a3c6d0",
+          "name": "BlueDotBar",
+          "type": "PanelSpriteContinuousBar::PanelSpriteContinuousBar",
+          "variables": [
+            {
+              "folded": true,
+              "name": "value",
+              "type": "number",
+              "value": 0
+            }
+          ],
+          "effects": [],
+          "behaviors": [],
+          "content": {
+            "BarTopPadding": 3,
+            "BarLeftPadding": 4,
+            "BarRightPadding": 4,
+            "BarBottomPadding": 4,
+            "EasingDuration": 0,
+            "PreviousHighValueDuration": 0,
+            "ShowLabel": false,
+            "InitialValue": 0,
+            "MaxValue": 3
+          },
+          "childrenContent": {
+            "Background": {
+              "bottomMargin": 4,
+              "height": 26,
+              "leftMargin": 2,
+              "rightMargin": 2,
+              "texture": "Dot Bar Blue Border.png",
+              "tiled": false,
+              "topMargin": 3,
+              "width": 118
+            },
+            "Buffer": {
+              "bottomMargin": 0,
+              "height": 19,
+              "leftMargin": 0,
+              "rightMargin": 0,
+              "texture": "Dot Bar Blue Fill Bar.png",
+              "tiled": true,
+              "topMargin": 0,
+              "width": 21
+            },
+            "FillBar": {
+              "bottomMargin": 0,
+              "height": 19,
+              "leftMargin": 0,
+              "rightMargin": 0,
+              "texture": "Dot Bar Blue Fill Bar.png",
+              "tiled": true,
+              "topMargin": 0,
+              "width": 21
+            },
+            "Label": {
+              "bold": false,
+              "italic": false,
+              "smoothed": true,
+              "underlined": false,
+              "string": "2 / 3",
+              "font": "",
+              "textAlignment": "",
+              "characterSize": 20,
+              "color": {
+                "b": 0,
+                "g": 0,
+                "r": 0
+              },
+              "content": {
+                "bold": false,
+                "isOutlineEnabled": false,
+                "isShadowEnabled": false,
+                "italic": false,
+                "outlineColor": "255;255;255",
+                "outlineThickness": 2,
+                "shadowAngle": 90,
+                "shadowBlurRadius": 2,
+                "shadowColor": "0;0;0",
+                "shadowDistance": 4,
+                "shadowOpacity": 127,
+                "smoothed": true,
+                "underlined": false,
+                "text": "2 / 3",
+                "font": "",
+                "textAlignment": "",
+                "characterSize": 20,
+                "color": "0;0;0"
+              }
+            }
+          }
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "ef6d385dd28fed6522f2a9bbd0d4bdc6259a543797f22713eb235cefb455b47c",
+          "name": "LakeTrout",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "No Shadow",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Lake Trout_No Shadow.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 3,
+                            "y": 3
+                          },
+                          {
+                            "x": 29,
+                            "y": 3
+                          },
+                          {
+                            "x": 29,
+                            "y": 29
+                          },
+                          {
+                            "x": 3,
+                            "y": 29
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Shadow",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Lake Trout_Shadow.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 3,
+                            "y": 3
+                          },
+                          {
+                            "x": 29,
+                            "y": 3
+                          },
+                          {
+                            "x": 29,
+                            "y": 29
+                          },
+                          {
+                            "x": 3,
+                            "y": 29
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "b6a2ce9d5e47e7e308e1ff48dca9b480ecd613a92725edfa2ce492c9b7d9ac4e",
+          "name": "Octopus",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "No Shadow",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Octopus_No Shadow.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 3,
+                            "y": 3
+                          },
+                          {
+                            "x": 29,
+                            "y": 3
+                          },
+                          {
+                            "x": 29,
+                            "y": 29
+                          },
+                          {
+                            "x": 3,
+                            "y": 29
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Shadow",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Octopus_Shadow.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 3,
+                            "y": 3
+                          },
+                          {
+                            "x": 29,
+                            "y": 3
+                          },
+                          {
+                            "x": 29,
+                            "y": 29
+                          },
+                          {
+                            "x": 3,
+                            "y": 29
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "0ec68dcc18a52c02470a6557d4c2aeabac1b5e4e6ce49ad9d24fdcbfa1705eb1",
+          "name": "TropicalFish",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "No Shadow",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Tropical Fish_No Shadow.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 3,
+                            "y": 3
+                          },
+                          {
+                            "x": 28,
+                            "y": 3
+                          },
+                          {
+                            "x": 28,
+                            "y": 28
+                          },
+                          {
+                            "x": 3,
+                            "y": 28
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Shadow",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Tropical Fish_Shadow.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 3,
+                            "y": 3
+                          },
+                          {
+                            "x": 28,
+                            "y": 3
+                          },
+                          {
+                            "x": 28,
+                            "y": 28
+                          },
+                          {
+                            "x": 3,
+                            "y": 28
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "objectsFolderStructure": {
@@ -4313,6 +5036,21 @@
           },
           {
             "objectName": "FishingRod"
+          },
+          {
+            "objectName": "YellowButton"
+          },
+          {
+            "objectName": "BlueDotBar"
+          },
+          {
+            "objectName": "LakeTrout"
+          },
+          {
+            "objectName": "Octopus"
+          },
+          {
+            "objectName": "TropicalFish"
           }
         ]
       },
@@ -4397,6 +5135,33 @@
                 "",
                 "5",
                 "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "PanelSpriteContinuousBar::PanelSpriteContinuousBar::SetValue"
+              },
+              "parameters": [
+                "BlueDotBar",
+                "=",
+                "0",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Cache"
+              },
+              "parameters": [
+                "YellowButton"
+              ]
+            },
+            {
+              "type": {
+                "value": "Cache"
+              },
+              "parameters": [
+                "BlueDotBar"
               ]
             }
           ],
@@ -5079,6 +5844,187 @@
             }
           ],
           "parameters": []
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Player",
+                "Dock1",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Montre"
+              },
+              "parameters": [
+                "YellowButton",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Montre"
+              },
+              "parameters": [
+                "BlueDotBar",
+                ""
+              ]
+            }
+          ],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "PanelSpriteButton::PanelSpriteButton::IsClicked"
+                  },
+                  "parameters": [
+                    "YellowButton",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "PanelSpriteContinuousBar::PanelSpriteContinuousBar::SetValue"
+                  },
+                  "parameters": [
+                    "BlueDotBar",
+                    "+",
+                    "1",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "MettreXY"
+                  },
+                  "parameters": [
+                    "LakeTrout",
+                    "=",
+                    "753",
+                    "=",
+                    "337"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ModVarObjet"
+                  },
+                  "parameters": [
+                    "BlueDotBar",
+                    "value",
+                    "+",
+                    "1"
+                  ]
+                }
+              ],
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "VarObjet"
+                      },
+                      "parameters": [
+                        "BlueDotBar",
+                        "value",
+                        "=",
+                        "1"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "MettreXY"
+                      },
+                      "parameters": [
+                        "LakeTrout",
+                        "=",
+                        "760",
+                        "=",
+                        "344"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "VarObjet"
+                      },
+                      "parameters": [
+                        "BlueDotBar",
+                        "value",
+                        "=",
+                        "2"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "MettreXY"
+                      },
+                      "parameters": [
+                        "Octopus",
+                        "=",
+                        "765",
+                        "=",
+                        "344"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "VarObjet"
+                      },
+                      "parameters": [
+                        "BlueDotBar",
+                        "value",
+                        "=",
+                        "3"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "MettreXY"
+                      },
+                      "parameters": [
+                        "TropicalFish",
+                        "=",
+                        "755",
+                        "=",
+                        "344"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "layers": [
