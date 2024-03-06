@@ -540,6 +540,19 @@
         "name": "assets\\sign.png",
         "smoothed": true,
         "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Bronze Butcher Knife 21.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Bronze Butcher Knife 21.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 RPG Weapons/Bronze Weapon/Butcher Knife/0ba8f7d5ca96f67b7c07cf526fc3f5c72a84c0b2d8f8476babac3dca86a93e4f_Bronze Butcher Knife 21.png",
+          "name": "Bronze Butcher Knife 21.png"
+        }
       }
     ],
     "resourceFolders": []
@@ -630,7 +643,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.2,
         "snap": false,
-        "zoomFactor": 1.9411591872402365,
+        "zoomFactor": 3.088189613173279,
         "windowMask": false
       },
       "objectsGroups": [
@@ -2553,6 +2566,21 @@
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "BronzeButcherKnife21",
+          "persistentUuid": "8afeb2e5-0a99-40e9-88c7-fd6ad0d42302",
+          "width": 0,
+          "x": 722,
+          "y": 289,
+          "zOrder": 2002,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
         }
       ],
       "objects": [
@@ -4111,6 +4139,66 @@
               ]
             }
           ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "0a47549bf2ba00e1f0feb0d715bd1e0be8eccf9c3485e8aebd10a4dce4286c00",
+          "name": "BronzeButcherKnife21",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Bronze Butcher Knife 21.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 2
+                          },
+                          {
+                            "x": 15,
+                            "y": 2
+                          },
+                          {
+                            "x": 15,
+                            "y": 14
+                          },
+                          {
+                            "x": 0,
+                            "y": 14
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "objectsFolderStructure": {
@@ -4202,6 +4290,9 @@
           },
           {
             "objectName": "CollisionDetect"
+          },
+          {
+            "objectName": "BronzeButcherKnife21"
           }
         ]
       },
@@ -4441,6 +4532,18 @@
                         "=",
                         "\"Up\""
                       ]
+                    },
+                    {
+                      "type": {
+                        "value": "MettreXY"
+                      },
+                      "parameters": [
+                        "BronzeButcherKnife21",
+                        "=",
+                        "Player.X()",
+                        "=",
+                        "Player.Y()-13"
+                      ]
                     }
                   ]
                 },
@@ -4468,6 +4571,18 @@
                         "Animation",
                         "=",
                         "\"Down\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "MettreXY"
+                      },
+                      "parameters": [
+                        "BronzeButcherKnife21",
+                        "=",
+                        "Player.X()",
+                        "=",
+                        "Player.Y()-13"
                       ]
                     }
                   ]
@@ -4497,6 +4612,18 @@
                         "=",
                         "\"Right\""
                       ]
+                    },
+                    {
+                      "type": {
+                        "value": "MettreXY"
+                      },
+                      "parameters": [
+                        "BronzeButcherKnife21",
+                        "=",
+                        "Player.X()",
+                        "=",
+                        "Player.Y()-13"
+                      ]
                     }
                   ]
                 },
@@ -4524,6 +4651,18 @@
                         "Animation",
                         "=",
                         "\"Left\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "MettreXY"
+                      },
+                      "parameters": [
+                        "BronzeButcherKnife21",
+                        "=",
+                        "Player.X()",
+                        "=",
+                        "Player.Y()-13"
                       ]
                     }
                   ]
