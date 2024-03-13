@@ -1051,6 +1051,56 @@
           "identifier": "https://asset-resources.gdevelop.io/public-resources/32x32 Fantasy Icons Pack v2/Icons/Fishing Items/44e787f8dd795fd7645817bc69db62882f3814cff2b9f1e076876094824ff670_Jellyfish_Shadow.png",
           "name": "Jellyfish_Shadow.png"
         }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Yellow Jelly Button_Hovered.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Yellow Jelly Button_Hovered.png",
+        "smoothed": true,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/5cc04ef76aad172a63070469c328ceb3f74207115ad9c2321ccfe0d5755677a0_Yellow Jelly Button_Hovered.png",
+          "name": "Yellow Jelly Button_Hovered.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Yellow Jelly Button_Idle.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Yellow Jelly Button_Idle.png",
+        "smoothed": true,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/04f6f22d3160fa528875b199bb7bd4f35cf3f20fb8fde4a5d960f01df9bee3a3_Yellow Jelly Button_Idle.png",
+          "name": "Yellow Jelly Button_Idle.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Yellow Jelly Button_Pressed.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Yellow Jelly Button_Pressed.png",
+        "smoothed": true,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/11abe8b7d577c30b71789404003c50b3fe73d63492fd30669a5153bc67ac0a60_Yellow Jelly Button_Pressed.png",
+          "name": "Yellow Jelly Button_Pressed.png"
+        }
+      },
+      {
+        "file": "assets/Rubik-Regular.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "Rubik-Regular.ttf",
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/edbc88d46437d6403d3670eb084bcbdf08872c9f54a34ed1536c1013c412bd3b_Rubik-Regular.ttf",
+          "name": "Rubik-Regular.ttf"
+        }
       }
     ],
     "resourceFolders": []
@@ -8196,7 +8246,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.546875,
+        "zoomFactor": 0.4789341884535247,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -8210,9 +8260,9 @@
           "layer": "",
           "name": "EmptyCloudBackground",
           "persistentUuid": "c9760be1-cb74-40cf-8d68-1a8354c3dbf1",
-          "width": 1326,
-          "x": -26,
-          "y": -172,
+          "width": 1595,
+          "x": -65,
+          "y": -243,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -8222,13 +8272,13 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 404,
+          "height": 518,
           "layer": "",
           "name": "WaterFlatBrightSurface",
           "persistentUuid": "6c903c54-e7a5-4544-a719-c481660e86fb",
-          "width": 1343,
-          "x": -29,
-          "y": 332,
+          "width": 1594,
+          "x": -54,
+          "y": 335,
           "zOrder": 3,
           "numberProperties": [],
           "stringProperties": [],
@@ -8261,7 +8311,7 @@
           "width": 95,
           "x": 1156,
           "y": 450,
-          "zOrder": 7,
+          "zOrder": 31,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -8277,7 +8327,7 @@
           "width": 80,
           "x": 38,
           "y": 352,
-          "zOrder": 8,
+          "zOrder": 27,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -8309,7 +8359,7 @@
           "width": 85,
           "x": 1157,
           "y": 646,
-          "zOrder": 10,
+          "zOrder": 29,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -8323,9 +8373,9 @@
           "name": "Eel",
           "persistentUuid": "0d33d09c-b2a9-411d-9e68-e570d23d7b7e",
           "width": 58,
-          "x": 26,
-          "y": 659,
-          "zOrder": 11,
+          "x": 24,
+          "y": 654,
+          "zOrder": 26,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -8341,7 +8391,7 @@
           "width": 76,
           "x": 1162,
           "y": 533,
-          "zOrder": 12,
+          "zOrder": 30,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -8355,9 +8405,9 @@
           "name": "OldBoot",
           "persistentUuid": "ff0c1878-6e4c-480a-9864-0ce2802501ea",
           "width": 85,
-          "x": 496,
-          "y": 627,
-          "zOrder": 13,
+          "x": 591,
+          "y": 614,
+          "zOrder": 28,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -8382,13 +8432,13 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 108,
+          "height": 70,
           "layer": "",
           "name": "Player",
           "persistentUuid": "38d1b784-6df3-4e50-be39-bc265a49707c",
-          "width": 88,
-          "x": 563,
-          "y": 314,
+          "width": 68,
+          "x": 615,
+          "y": 321,
           "zOrder": 21,
           "numberProperties": [],
           "stringProperties": [],
@@ -8403,8 +8453,8 @@
           "name": "fr2",
           "persistentUuid": "9b1f6b1e-157b-44b8-9c03-6e41e04ed953",
           "width": 110,
-          "x": 585,
-          "y": 220,
+          "x": 631,
+          "y": 231,
           "zOrder": 22,
           "numberProperties": [],
           "stringProperties": [],
@@ -8418,10 +8468,26 @@
           "layer": "",
           "name": "string",
           "persistentUuid": "68231db0-5499-42a2-9aad-c16f681c7db8",
-          "width": 155,
-          "x": 549,
-          "y": 207,
+          "width": 67,
+          "x": 1444,
+          "y": -113,
           "zOrder": 23,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 360,
+          "customSize": true,
+          "depth": 1,
+          "height": 82,
+          "layer": "",
+          "name": "hook",
+          "persistentUuid": "14d10c35-583d-4546-82d0-fd3ae3221817",
+          "width": 92,
+          "x": 647,
+          "y": 189,
+          "zOrder": 24,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -8429,15 +8495,15 @@
         {
           "angle": 0,
           "customSize": true,
-          "depth": 1,
-          "height": 174,
+          "depth": 48,
+          "height": 80,
           "layer": "",
-          "name": "hook",
-          "persistentUuid": "14d10c35-583d-4546-82d0-fd3ae3221817",
-          "width": 174,
-          "x": 534,
-          "y": 204,
-          "zOrder": 24,
+          "name": "YellowJellyButton",
+          "persistentUuid": "2dc0d217-bd4a-4e9c-b5a4-902867f70d40",
+          "width": 206,
+          "x": 91,
+          "y": -90,
+          "zOrder": 32,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -8791,6 +8857,34 @@
           "effects": [],
           "behaviors": [
             {
+              "name": "Health",
+              "type": "Health::Health",
+              "Health": 100,
+              "CurrentHealth": 0,
+              "MaxHealth": 100,
+              "DamageCooldown": 0,
+              "IsHealthJustDamaged": false,
+              "HealthRegenRate": 0,
+              "HealthRegenDelay": 0,
+              "AllowOverHealing": false,
+              "HitAtLeastOnce": false,
+              "IsJustHealed": false,
+              "CurrentShieldPoints": 2.0247e-320,
+              "MaxShieldPoints": 0,
+              "ShieldDuration": 5,
+              "ShieldRegenRate": 0,
+              "BlockExcessDamage": false,
+              "ShieldRegenDelay": 0,
+              "IsShieldJustDamaged": false,
+              "ChanceToDodge": 0,
+              "DamageToBeApplied": 0,
+              "FlatDamageReduction": 0,
+              "PercentDamageReduction": 0,
+              "IsJustDodged": false,
+              "ShieldDamageTaken": 2.0247e-320,
+              "HealToBeApplied": 0
+            },
+            {
               "name": "Physics2",
               "type": "Physics2::Physics2Behavior",
               "bodyType": "Dynamic",
@@ -8841,16 +8935,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 5.5,
-                            "y": 28
+                            "x": 2,
+                            "y": 29
                           },
                           {
-                            "x": 5.5,
-                            "y": 28
+                            "x": 4,
+                            "y": 1.5
                           },
                           {
-                            "x": 5.5,
-                            "y": 28
+                            "x": 30,
+                            "y": 5
+                          },
+                          {
+                            "x": 30,
+                            "y": 30
                           }
                         ]
                       ]
@@ -8885,16 +8983,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 5.5,
-                            "y": 28
+                            "x": 2,
+                            "y": 29
                           },
                           {
-                            "x": 5.5,
-                            "y": 28
+                            "x": 4,
+                            "y": 1.5
                           },
                           {
-                            "x": 5.5,
-                            "y": 28
+                            "x": 30,
+                            "y": 5
+                          },
+                          {
+                            "x": 30,
+                            "y": 30
                           }
                         ]
                       ]
@@ -8965,16 +9067,24 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 6,
-                            "y": 24.5
+                            "x": 27.5,
+                            "y": 1
                           },
                           {
-                            "x": 6,
-                            "y": 24.5
+                            "x": 2,
+                            "y": 2.5
                           },
                           {
-                            "x": 6,
-                            "y": 24.5
+                            "x": 2.5,
+                            "y": 28.5
+                          },
+                          {
+                            "x": 20.5,
+                            "y": 28
+                          },
+                          {
+                            "x": 29.5,
+                            "y": 16
                           }
                         ]
                       ]
@@ -9009,16 +9119,24 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 6,
-                            "y": 24.5
+                            "x": 27.5,
+                            "y": 1
                           },
                           {
-                            "x": 6,
-                            "y": 24.5
+                            "x": 2,
+                            "y": 2.5
                           },
                           {
-                            "x": 6,
-                            "y": 24.5
+                            "x": 2.5,
+                            "y": 28.5
+                          },
+                          {
+                            "x": 20.5,
+                            "y": 28
+                          },
+                          {
+                            "x": 29.5,
+                            "y": 16
                           }
                         ]
                       ]
@@ -10377,7 +10495,14 @@
           "name": "string",
           "type": "Sprite",
           "updateIfNotVisible": false,
-          "variables": [],
+          "variables": [
+            {
+              "folded": true,
+              "name": "strlen",
+              "type": "number",
+              "value": 620
+            }
+          ],
           "effects": [],
           "behaviors": [],
           "animations": [
@@ -10816,6 +10941,88 @@
               ]
             }
           ]
+        },
+        {
+          "assetStoreId": "055eaaaceaa6fa09820aff95e0291764fbd98d84a9c2fb8cb3c4e059010a477b",
+          "name": "YellowJellyButton",
+          "type": "PanelSpriteButton::PanelSpriteButton",
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "content": {
+            "BottomPadding": 16,
+            "TopPadding": 0,
+            "LeftPadding": 10,
+            "RightPadding": 10,
+            "PressedLabelOffsetY": 3
+          },
+          "childrenContent": {
+            "Hovered": {
+              "bottomMargin": 50,
+              "height": 128,
+              "leftMargin": 37,
+              "rightMargin": 32,
+              "texture": "Yellow Jelly Button_Hovered.png",
+              "tiled": false,
+              "topMargin": 50,
+              "width": 256
+            },
+            "Idle": {
+              "bottomMargin": 50,
+              "height": 128,
+              "leftMargin": 37,
+              "rightMargin": 32,
+              "texture": "Yellow Jelly Button_Idle.png",
+              "tiled": false,
+              "topMargin": 50,
+              "width": 256
+            },
+            "Label": {
+              "bold": false,
+              "italic": false,
+              "smoothed": true,
+              "underlined": false,
+              "string": "Back to Village",
+              "font": "Rubik-Regular.ttf",
+              "textAlignment": "center",
+              "characterSize": 20,
+              "color": {
+                "b": 0,
+                "g": 42,
+                "r": 117
+              },
+              "content": {
+                "bold": false,
+                "isOutlineEnabled": false,
+                "isShadowEnabled": false,
+                "italic": false,
+                "outlineColor": "255;255;255",
+                "outlineThickness": 2,
+                "shadowAngle": 90,
+                "shadowBlurRadius": 2,
+                "shadowColor": "0;0;0",
+                "shadowDistance": 4,
+                "shadowOpacity": 127,
+                "smoothed": true,
+                "underlined": false,
+                "text": "Back to Village",
+                "font": "Rubik-Regular.ttf",
+                "textAlignment": "center",
+                "characterSize": 20,
+                "color": "117;42;0"
+              }
+            },
+            "Pressed": {
+              "bottomMargin": 50,
+              "height": 128,
+              "leftMargin": 37,
+              "rightMargin": 32,
+              "texture": "Yellow Jelly Button_Pressed.png",
+              "tiled": false,
+              "topMargin": 50,
+              "width": 256
+            }
+          }
         }
       ],
       "objectsFolderStructure": {
@@ -10866,6 +11073,9 @@
           {
             "folderName": "buttons",
             "children": [
+              {
+                "objectName": "YellowJellyButton"
+              },
               {
                 "objectName": "BlueDotBar"
               }
@@ -11125,6 +11335,60 @@
           "conditions": [
             {
               "type": {
+                "value": "PanelSpriteButton::PanelSpriteButton::IsClicked"
+              },
+              "parameters": [
+                "YellowJellyButton",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Scene"
+              },
+              "parameters": [
+                "",
+                "\"Overworld\"",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "PosY"
+              },
+              "parameters": [
+                "hook",
+                ">",
+                "300"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "OpacityCapability::OpacityBehavior::SetValue"
+              },
+              "parameters": [
+                "hook",
+                "Opacity",
+                "=",
+                "150"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
                 "value": "PosX"
               },
               "parameters": [
@@ -11353,7 +11617,7 @@
               },
               "parameters": [
                 "",
-                "Up"
+                "Down"
               ]
             }
           ],
@@ -11365,8 +11629,29 @@
               "parameters": [
                 "hook",
                 "0",
-                "-75",
+                "125",
                 ""
+              ]
+            },
+            {
+              "type": {
+                "value": "MettreY"
+              },
+              "parameters": [
+                "string",
+                "=",
+                "227\n"
+              ]
+            },
+            {
+              "type": {
+                "value": "ResizableCapability::ResizableBehavior::SetHeight"
+              },
+              "parameters": [
+                "string",
+                "Resizable",
+                "+",
+                "5"
               ]
             }
           ]
@@ -11380,7 +11665,7 @@
               },
               "parameters": [
                 "",
-                "Down"
+                "Up"
               ]
             }
           ],
@@ -11392,8 +11677,18 @@
               "parameters": [
                 "hook",
                 "0",
-                "75",
+                "-125",
                 ""
+              ]
+            },
+            {
+              "type": {
+                "value": "MettreY"
+              },
+              "parameters": [
+                "string",
+                "=",
+                "227\n"
               ]
             },
             {
@@ -11403,8 +11698,290 @@
               "parameters": [
                 "string",
                 "Resizable",
-                "+",
-                "10"
+                "-",
+                "5"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "hook",
+                "Octopus",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "MettreXY"
+              },
+              "parameters": [
+                "Octopus",
+                "=",
+                "hook.X()",
+                "=",
+                "hook.Y()"
+              ]
+            },
+            {
+              "type": {
+                "value": "ActivateBehavior"
+              },
+              "parameters": [
+                "Octopus",
+                "Physics2",
+                ""
+              ]
+            }
+          ],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "PosY"
+                  },
+                  "parameters": [
+                    "Octopus",
+                    "<",
+                    "200"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "MettreXY"
+                  },
+                  "parameters": [
+                    "Octopus",
+                    "=",
+                    "boat.X()+20",
+                    "=",
+                    "boat.Y()+40"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "OpacityCapability::OpacityBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "Octopus",
+                    "Opacity",
+                    "=",
+                    "255"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "PanelSpriteContinuousBar::PanelSpriteContinuousBar::SetValue"
+                  },
+                  "parameters": [
+                    "BlueDotBar",
+                    "+",
+                    "1",
+                    "1"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "hook",
+                "TropicalFish",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "MettreXY"
+              },
+              "parameters": [
+                "TropicalFish",
+                "=",
+                "hook.X()",
+                "=",
+                "hook.Y()"
+              ]
+            },
+            {
+              "type": {
+                "value": "ActivateBehavior"
+              },
+              "parameters": [
+                "TropicalFish",
+                "Physics2",
+                ""
+              ]
+            }
+          ],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "PosY"
+                  },
+                  "parameters": [
+                    "TropicalFish",
+                    "<",
+                    "200"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "MettreXY"
+                  },
+                  "parameters": [
+                    "TropicalFish",
+                    "=",
+                    "boat.X()+50",
+                    "=",
+                    "boat.Y()+25"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "OpacityCapability::OpacityBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "TropicalFish",
+                    "Opacity",
+                    "=",
+                    "255"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "PanelSpriteContinuousBar::PanelSpriteContinuousBar::SetValue"
+                  },
+                  "parameters": [
+                    "BlueDotBar",
+                    "+",
+                    "1",
+                    "1"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "hook",
+                "Turtle",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "MettreXY"
+              },
+              "parameters": [
+                "Turtle",
+                "=",
+                "hook.X()",
+                "=",
+                "hook.Y()"
+              ]
+            },
+            {
+              "type": {
+                "value": "ActivateBehavior"
+              },
+              "parameters": [
+                "Turtle",
+                "Physics2",
+                ""
+              ]
+            }
+          ],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "PosY"
+                  },
+                  "parameters": [
+                    "Turtle",
+                    "<",
+                    "200"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "MettreXY"
+                  },
+                  "parameters": [
+                    "Turtle",
+                    "=",
+                    "boat.X()+100",
+                    "=",
+                    "boat.Y()+25"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "OpacityCapability::OpacityBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "Turtle",
+                    "Opacity",
+                    "=",
+                    "255"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "PanelSpriteContinuousBar::PanelSpriteContinuousBar::SetValue"
+                  },
+                  "parameters": [
+                    "BlueDotBar",
+                    "+",
+                    "1",
+                    "1"
+                  ]
+                }
               ]
             }
           ]
@@ -11472,6 +12049,10 @@
         {
           "name": "Flippable",
           "type": "FlippableCapability::FlippableBehavior"
+        },
+        {
+          "name": "Health",
+          "type": "Health::Health"
         },
         {
           "name": "Opacity",
