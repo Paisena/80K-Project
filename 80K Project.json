@@ -715,6 +715,395 @@
           "identifier": "https://asset-resources.gdevelop.io/public-resources/32x32 Fantasy Icons Pack v2/Icons/Fishing Items/ee387da34307ed6df68d916512849c89eca7b931be06de04ec5521c460dab725_Tropical Fish_Shadow.png",
           "name": "Tropical Fish_Shadow.png"
         }
+<<<<<<< Updated upstream
+=======
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/original pattern tiled 288x288.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "original pattern tiled 288x288.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/RC Art - Water Aqua System/original templates/8ae5ff15982577610b98cdfdd77622760a4ee951d1dfc527493a10d59a541b77_original pattern tiled 288x288.png",
+          "name": "original pattern tiled 288x288.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/water flat bright surface.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "water flat bright surface.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/RC Art - Water Aqua System/BG Water/4716585ab19a8329c756fb0ab32869a06b78823fee2e40ed4a3bb1c11de6b0a9_water flat bright surface.png",
+          "name": "water flat bright surface.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/tiled_Empty Cloud Background.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tiled_Empty Cloud Background.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Generic Backgrounds/1835a8e778f048485605f0cecdca221dccb5d4b05821f101c1fc05d239f422b2_tiled_Empty Cloud Background.png",
+          "name": "tiled_Empty Cloud Background.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/tiled_Grass.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tiled_Grass.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Breakable Physics/Background/f0fcdea023107dc7c4263d38d52d5f6f74a5b779887760a1580a613f7f4b2af0_tiled_Grass.png",
+          "name": "tiled_Grass.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Wood Block 1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Wood Block 1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Western FPS 2D/Hud/b7ab1cd09dd6cbec38f11a0397b0a821b12692ab66823f3ecd1477f3e51360d1_Wood Block 1.png",
+          "name": "Wood Block 1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fishing Rod_No Shadow.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fishing Rod_No Shadow.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/32x32 Fantasy Icons Pack v2/Icons/Fishing Items/aa193b7f73cc88dc4c080cd16b4e2d88921a0c5c73664c89d1e5b03bb28183d4_Fishing Rod_No Shadow.png",
+          "name": "Fishing Rod_No Shadow.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fishing Rod_Shadow.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fishing Rod_Shadow.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/32x32 Fantasy Icons Pack v2/Icons/Fishing Items/8eedfdbd07c3f7c666dc2053428475e42d771ba84b68079d3ed827d4326e414e_Fishing Rod_Shadow.png",
+          "name": "Fishing Rod_Shadow.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fish-Bone_No Shadow.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fish-Bone_No Shadow.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/32x32 Fantasy Icons Pack v2/Icons/Fishing Items/125201606a652bb5f14f71ae390702f0fb28c55ee3facc58bf93a66506baaf19_Fish-Bone_No Shadow.png",
+          "name": "Fish-Bone_No Shadow.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fish-Bone_Shadow.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fish-Bone_Shadow.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/32x32 Fantasy Icons Pack v2/Icons/Fishing Items/b4885b3d61d1f48120148d7612afdebc8f5ee498fa019b07bb3330fa6975f74d_Fish-Bone_Shadow.png",
+          "name": "Fish-Bone_Shadow.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Eel_No Shadow.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Eel_No Shadow.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/32x32 Fantasy Icons Pack v2/Icons/Fishing Items/5f793dc3d4653bed64c276e18950ebc65664d27bb41a52feb8bdd7913aadcff9_Eel_No Shadow.png",
+          "name": "Eel_No Shadow.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Eel_Shadow.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Eel_Shadow.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/32x32 Fantasy Icons Pack v2/Icons/Fishing Items/c70743f81591956f9858dbebb4c2a654f673376b70402111e88e5304cf5942d6_Eel_Shadow.png",
+          "name": "Eel_Shadow.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Turtle_No Shadow.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Turtle_No Shadow.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/32x32 Fantasy Icons Pack v2/Icons/Fishing Items/dd85c18af7bc4e03ddb27a76409786a9580bd030d8777ff0d3fe8856050c910d_Turtle_No Shadow.png",
+          "name": "Turtle_No Shadow.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Turtle_Shadow.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Turtle_Shadow.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/32x32 Fantasy Icons Pack v2/Icons/Fishing Items/3d690e0d6c582286c650653d3f50b98e69b997d6a29fdb16bdbf406d29b81bd6_Turtle_Shadow.png",
+          "name": "Turtle_Shadow.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Old Boot_No Shadow.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Old Boot_No Shadow.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/32x32 Fantasy Icons Pack v2/Icons/Fishing Items/d0279320dc62b88cb929f878d7512e72e9625a9c0fb4a4450e187b93df73b62d_Old Boot_No Shadow.png",
+          "name": "Old Boot_No Shadow.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Old Boot_Shadow.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Old Boot_Shadow.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/32x32 Fantasy Icons Pack v2/Icons/Fishing Items/72a20d49a1326d04caf82aa758a784c3ce2ede2fe2524ae7d4338a098f68fcc6_Old Boot_Shadow.png",
+          "name": "Old Boot_Shadow.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "an-8-bit-retro-styled-pixel-art-illustration-of-a-canoe-free-png.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "an-8-bit-retro-styled-pixel-art-illustration-of-a-canoe-free-png.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../../../Desktop/image.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\..\\..\\Desktop\\image.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "fishing_rod3.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"fishing_rod3.png\",\"extension\":\".png\"}",
+        "name": "fishing_rod3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "fishing_rod4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "fishing_rod4.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/fishing_rod4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/fishing_rod4.png\"}",
+        "name": "fishing_rod4",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "fishing_rod5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "fishing_rod5.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/fishing_rod5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "fishing_rod5",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Brown Trout_No Shadow.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Brown Trout_No Shadow.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/32x32 Fantasy Icons Pack v2/Icons/Fishing Items/0ddf157f656a1a0ed3692c3b96299f21257ea5e8a7e90f790e0458083972338b_Brown Trout_No Shadow.png",
+          "name": "Brown Trout_No Shadow.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Brown Trout_Shadow.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Brown Trout_Shadow.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/32x32 Fantasy Icons Pack v2/Icons/Fishing Items/6a4f8e5e02086fc7294615bbc1c8a0e15f12072e4c6a2b493252e4e13fb862af_Brown Trout_Shadow.png",
+          "name": "Brown Trout_Shadow.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Clownfish_No Shadow.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Clownfish_No Shadow.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/32x32 Fantasy Icons Pack v2/Icons/Fishing Items/0ec41d39fa4cb40a0174b1c396da63a6d59d08c16ff22b803430b88abc9ef13f_Clownfish_No Shadow.png",
+          "name": "Clownfish_No Shadow.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Clownfish_Shadow.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Clownfish_Shadow.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/32x32 Fantasy Icons Pack v2/Icons/Fishing Items/a7b22e2b822172e0535fd8db84bd25157d4679d98130347347ece30137404ea2_Clownfish_Shadow.png",
+          "name": "Clownfish_Shadow.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Jellyfish_No Shadow.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Jellyfish_No Shadow.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/32x32 Fantasy Icons Pack v2/Icons/Fishing Items/c65ec6b136452e505a928c1556943c93401296c380759ea26b7ff28c1d481950_Jellyfish_No Shadow.png",
+          "name": "Jellyfish_No Shadow.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Jellyfish_Shadow.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Jellyfish_Shadow.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/32x32 Fantasy Icons Pack v2/Icons/Fishing Items/44e787f8dd795fd7645817bc69db62882f3814cff2b9f1e076876094824ff670_Jellyfish_Shadow.png",
+          "name": "Jellyfish_Shadow.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/White Square Decorated Button_Hovered.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "White Square Decorated Button_Hovered.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/77717e5c1f84f3ba9a3dd6e314bc0bdc3233351c657e8f6df40b7f50e8911b2b_White Square Decorated Button_Hovered.png",
+          "name": "White Square Decorated Button_Hovered.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/White Square Decorated Button_Idle.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "White Square Decorated Button_Idle.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/c4444ea8d2cd97df3af29acc29f4928549ab31e18156a304a78f6d838ea9f152_White Square Decorated Button_Idle.png",
+          "name": "White Square Decorated Button_Idle.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/White Square Decorated Button_Pressed.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "White Square Decorated Button_Pressed.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/c3bdc36afb89e6dea691d9ca8c0a74f06fb3f37f910ae730f0654d5df7d10472_White Square Decorated Button_Pressed.png",
+          "name": "White Square Decorated Button_Pressed.png"
+        }
+      },
+      {
+        "file": "assets/mononoki-Regular.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "mononoki-Regular.ttf",
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/7423149de6e486ac885567761bef3236bcdb8414d05cb0920ae7aedffdec85f9_mononoki-Regular.ttf",
+          "name": "mononoki-Regular.ttf"
+        }
+>>>>>>> Stashed changes
       }
     ],
     "resourceFolders": []
@@ -805,7 +1194,11 @@
         "gridColor": 10401023,
         "gridAlpha": 0.2,
         "snap": false,
+<<<<<<< Updated upstream
         "zoomFactor": 3.5262750820889113,
+=======
+        "zoomFactor": 0.7928273014312976,
+>>>>>>> Stashed changes
         "windowMask": false
       },
       "objectsGroups": [
@@ -2824,6 +3217,71 @@
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
+<<<<<<< Updated upstream
+=======
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 41,
+          "layer": "",
+          "name": "boat",
+          "persistentUuid": "e97f7f47-03fa-4911-90a0-abbae5d5e063",
+          "width": 54,
+          "x": 759,
+          "y": 358,
+          "zOrder": 2008,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 660,
+          "layer": "RodShop",
+          "name": "TextBorder",
+          "persistentUuid": "29e95667-0a37-40e0-880c-e5e3c7af1cdf",
+          "width": 1208,
+          "x": 28,
+          "y": 17,
+          "zOrder": 2009,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "RodShop",
+          "name": "WhiteSquareDecoratedButton",
+          "persistentUuid": "50971fb4-72b0-4d25-9ea3-ef453047f8ee",
+          "width": 0,
+          "x": 77,
+          "y": 77,
+          "zOrder": 2010,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "RodShop",
+          "name": "Exit",
+          "persistentUuid": "53b069c7-caee-4fed-aac6-d57abfe0bc0f",
+          "width": 0,
+          "x": 74,
+          "y": 70,
+          "zOrder": 2011,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+>>>>>>> Stashed changes
         }
       ],
       "objects": [
@@ -4209,7 +4667,7 @@
               "italic": false,
               "smoothed": true,
               "underlined": false,
-              "string": "Exit",
+              "string": "Rod ",
               "font": "",
               "textAlignment": "left",
               "characterSize": 26,
@@ -4232,7 +4690,7 @@
                 "shadowOpacity": 127,
                 "smoothed": true,
                 "underlined": false,
-                "text": "Exit",
+                "text": "Rod ",
                 "font": "",
                 "textAlignment": "left",
                 "characterSize": 26,
@@ -4942,6 +5400,193 @@
               ]
             }
           ]
+<<<<<<< Updated upstream
+=======
+        },
+        {
+          "adaptCollisionMaskAutomatically": false,
+          "assetStoreId": "",
+          "name": "Dock2",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Dock1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "boat",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "an-8-bit-retro-styled-pixel-art-illustration-of-a-canoe-free-png.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 150,
+                            "y": 195
+                          },
+                          {
+                            "x": 1800,
+                            "y": 195
+                          },
+                          {
+                            "x": 1800,
+                            "y": 825
+                          },
+                          {
+                            "x": 150,
+                            "y": 825
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "f23eb31ad33dd63f1937c8745105316ca530c28513c64b68a665975503c852a6",
+          "name": "Exit",
+          "type": "PanelSpriteButton::PanelSpriteButton",
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "content": {
+            "LeftPadding": 16,
+            "RightPadding": 16,
+            "PressedLabelOffsetY": 6,
+            "BottomPadding": 24,
+            "TopPadding": 20,
+            "HoveredFadeOutDuration": 0.25
+          },
+          "childrenContent": {
+            "Hovered": {
+              "bottomMargin": 22,
+              "height": 64,
+              "leftMargin": 16,
+              "rightMargin": 16,
+              "texture": "White Square Decorated Button_Hovered.png",
+              "tiled": true,
+              "topMargin": 16,
+              "width": 192
+            },
+            "Idle": {
+              "bottomMargin": 22,
+              "height": 64,
+              "leftMargin": 16,
+              "rightMargin": 16,
+              "texture": "White Square Decorated Button_Idle.png",
+              "tiled": true,
+              "topMargin": 16,
+              "width": 192
+            },
+            "Label": {
+              "bold": false,
+              "italic": false,
+              "smoothed": true,
+              "underlined": false,
+              "string": "Exit",
+              "font": "mononoki-Regular.ttf",
+              "textAlignment": "center",
+              "characterSize": 20,
+              "color": {
+                "b": 0,
+                "g": 0,
+                "r": 0
+              },
+              "content": {
+                "bold": false,
+                "isOutlineEnabled": false,
+                "isShadowEnabled": false,
+                "italic": false,
+                "outlineColor": "255;255;255",
+                "outlineThickness": 2,
+                "shadowAngle": 90,
+                "shadowBlurRadius": 2,
+                "shadowColor": "0;0;0",
+                "shadowDistance": 4,
+                "shadowOpacity": 127,
+                "smoothed": true,
+                "underlined": false,
+                "text": "Exit",
+                "font": "mononoki-Regular.ttf",
+                "textAlignment": "center",
+                "characterSize": 20,
+                "color": "0;0;0"
+              }
+            },
+            "Pressed": {
+              "bottomMargin": 16,
+              "height": 64,
+              "leftMargin": 16,
+              "rightMargin": 16,
+              "texture": "White Square Decorated Button_Pressed.png",
+              "tiled": true,
+              "topMargin": 22,
+              "width": 192
+            }
+          }
+>>>>>>> Stashed changes
         }
       ],
       "objectsFolderStructure": {
@@ -5051,6 +5696,15 @@
           },
           {
             "objectName": "TropicalFish"
+<<<<<<< Updated upstream
+=======
+          },
+          {
+            "objectName": "boat"
+          },
+          {
+            "objectName": "Exit"
+>>>>>>> Stashed changes
           }
         ]
       },
@@ -5617,6 +6271,48 @@
                   },
                   "parameters": [
                     "",
+                    "\"RodShop\""
+                  ]
+                }
+              ],
+              "actions": [],
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "PanelSpriteButton::PanelSpriteButton::IsClicked"
+                      },
+                      "parameters": [
+                        "Exit",
+                        ""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "HideLayer"
+                      },
+                      "parameters": [
+                        "",
+                        "\"RodShop\""
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "LayerVisible"
+                  },
+                  "parameters": [
+                    "",
                     "\"Dialogue\""
                   ]
                 }
@@ -5730,34 +6426,11 @@
                       "actions": [
                         {
                           "type": {
-                            "value": "FlashTransitionPainter::FlashTransitionPainter::PaintEffect"
-                          },
-                          "parameters": [
-                            "Transition",
-                            "FlashTransitionPainter",
-                            "\"0;0;0\"",
-                            "1",
-                            "\"Circular\"",
-                            "\"Forward\"",
-                            "255",
-                            ""
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "Wait"
-                          },
-                          "parameters": [
-                            "1"
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "PushScene"
+                            "value": "HideLayer"
                           },
                           "parameters": [
                             "",
-                            "\"Battle\""
+                            "\"Dialogue\""
                           ]
                         }
                       ]
@@ -5783,6 +6456,15 @@
                           "parameters": [
                             "",
                             "\"Dialogue\""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "ShowLayer"
+                          },
+                          "parameters": [
+                            "",
+                            "\"RodShop\""
                           ]
                         }
                       ]
@@ -6069,7 +6751,7 @@
           "isLocked": false,
           "name": "Dialogue",
           "renderingType": "",
-          "visibility": false,
+          "visibility": true,
           "cameras": [],
           "effects": []
         },
@@ -6123,6 +6805,39 @@
           "visibility": true,
           "cameras": [],
           "effects": []
+        },
+        {
+          "ambientLightColorB": 200,
+          "ambientLightColorG": 200,
+          "ambientLightColorR": 200,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 3,
+          "cameraType": "",
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "isLocked": false,
+          "name": "RodShop",
+          "renderingType": "",
+          "visibility": true,
+          "cameras": [],
+          "effects": [
+            {
+              "effectType": "Scene3D::HemisphereLight",
+              "name": "3D Light",
+              "doubleParameters": {
+                "elevation": 45,
+                "intensity": 1,
+                "rotation": 0
+              },
+              "stringParameters": {
+                "groundColor": "64;64;64",
+                "skyColor": "255;255;255",
+                "top": "Y-"
+              },
+              "booleanParameters": {}
+            }
+          ]
         }
       ],
       "behaviorsSharedData": [
