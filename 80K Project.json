@@ -1200,7 +1200,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.2,
         "snap": false,
-        "zoomFactor": 0.6943306974990565,
+        "zoomFactor": 2.987451753931913,
         "windowMask": false
       },
       "objectsGroups": [
@@ -5595,7 +5595,7 @@
               "height": 64,
               "leftMargin": 16,
               "rightMargin": 16,
-              "texture": "White Square Decorated Button_Idle.png",
+              "texture": "White Square Decorated Button_Hovered.png",
               "tiled": true,
               "topMargin": 16,
               "width": 192
@@ -5678,7 +5678,7 @@
               "height": 64,
               "leftMargin": 16,
               "rightMargin": 16,
-              "texture": "White Square Decorated Button_Idle.png",
+              "texture": "White Square Decorated Button_Hovered.png",
               "tiled": true,
               "topMargin": 16,
               "width": 192
@@ -5761,7 +5761,7 @@
               "height": 64,
               "leftMargin": 16,
               "rightMargin": 16,
-              "texture": "White Square Decorated Button_Idle.png",
+              "texture": "White Square Decorated Button_Hovered.png",
               "tiled": true,
               "topMargin": 16,
               "width": 192
@@ -6001,7 +6001,7 @@
               "height": 64,
               "leftMargin": 16,
               "rightMargin": 16,
-              "texture": "White Square Decorated Button_Idle.png",
+              "texture": "White Square Decorated Button_Hovered.png",
               "tiled": true,
               "topMargin": 16,
               "width": 192
@@ -7608,7 +7608,7 @@
           "isLocked": false,
           "name": "FishShop",
           "renderingType": "",
-          "visibility": true,
+          "visibility": false,
           "cameras": [],
           "effects": [
             {
@@ -9790,6 +9790,21 @@
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "NewText",
+          "persistentUuid": "0d8d0b87-0f21-4b1c-8984-c6f92f1ee8a6",
+          "width": 0,
+          "x": 819,
+          "y": 93,
+          "zOrder": 33,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
         }
       ],
       "objects": [
@@ -11640,7 +11655,7 @@
           "variables": [],
           "effects": [],
           "behaviors": [],
-          "string": "Press 'SPACE' to start fishing!",
+          "string": "Press the Up and Down arrows to move the hook\nBring the fish out of the water to catch them",
           "font": "",
           "textAlignment": "left",
           "characterSize": 20,
@@ -11663,7 +11678,7 @@
             "shadowOpacity": 127,
             "smoothed": true,
             "underlined": false,
-            "text": "Press 'SPACE' to start fishing!",
+            "text": "Press the Up and Down arrows to move the hook\nBring the fish out of the water to catch them",
             "font": "",
             "textAlignment": "left",
             "characterSize": 20,
@@ -12245,7 +12260,7 @@
               "height": 128,
               "leftMargin": 37,
               "rightMargin": 32,
-              "texture": "Yellow Jelly Button_Hovered.png",
+              "texture": "Yellow Jelly Button_Idle.png",
               "tiled": false,
               "topMargin": 50,
               "width": 256
