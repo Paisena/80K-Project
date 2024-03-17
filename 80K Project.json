@@ -1178,7 +1178,14 @@
     ]
   },
   "objectsGroups": [],
-  "variables": [],
+  "variables": [
+    {
+      "folded": true,
+      "name": "Fishes",
+      "type": "number",
+      "value": 45
+    }
+  ],
   "layouts": [
     {
       "b": 209,
@@ -6745,7 +6752,7 @@
                     "FishText",
                     "Text",
                     "=",
-                    "\"Fish: \" + Player.Fish"
+                    "\"Fish: \" + Fishes"
                   ]
                 },
                 {
@@ -6842,6 +6849,16 @@
                         "Text",
                         "=",
                         "\"Currency:\" + Player.Currency"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "ModVarGlobal"
+                      },
+                      "parameters": [
+                        "Fishes",
+                        "-",
+                        "1"
                       ]
                     }
                   ]
@@ -13091,6 +13108,16 @@
                     "1",
                     "1"
                   ]
+                },
+                {
+                  "type": {
+                    "value": "ModVarGlobal"
+                  },
+                  "parameters": [
+                    "Fishes",
+                    "+",
+                    "1"
+                  ]
                 }
               ]
             }
@@ -13185,6 +13212,16 @@
                     "1",
                     "1"
                   ]
+                },
+                {
+                  "type": {
+                    "value": "ModVarGlobal"
+                  },
+                  "parameters": [
+                    "Fishes",
+                    "+",
+                    "1"
+                  ]
                 }
               ]
             }
@@ -13277,6 +13314,16 @@
                     "BlueDotBar",
                     "+",
                     "1",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ModVarGlobal"
+                  },
+                  "parameters": [
+                    "Fishes",
+                    "+",
                     "1"
                   ]
                 }
