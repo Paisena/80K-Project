@@ -2394,6 +2394,15 @@
           "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/359609a99ab1c6da546cd6bd10511181319921cba2be5a24e1a5455511279163_Kid 2_Walk Up_4.png",
           "name": "Kid 2_Walk Up_4.png"
         }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Rod3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Rod3.png",
+        "smoothed": true,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -2503,7 +2512,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.2,
         "snap": false,
-        "zoomFactor": 3.411246716812875,
+        "zoomFactor": 0.5151561018659855,
         "windowMask": false
       },
       "objectsGroups": [
@@ -3811,22 +3820,6 @@
         },
         {
           "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 14,
-          "layer": "Collision",
-          "name": "CollisionDetect",
-          "persistentUuid": "6e019a57-fd94-42ab-ad44-c926536191b4",
-          "width": 15,
-          "x": 675,
-          "y": 199,
-          "zOrder": 40,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
           "customSize": false,
           "height": 0,
           "layer": "",
@@ -4843,6 +4836,67 @@
           "x": 824,
           "y": 249,
           "zOrder": 2029,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Merchant",
+          "persistentUuid": "8336fb21-9f66-4fe8-887d-b508978caaa3",
+          "width": 0,
+          "x": 713,
+          "y": 300,
+          "zOrder": 2030,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Fisherman",
+          "persistentUuid": "adb6f8b6-7117-4e5c-a1cb-426ff2d11900",
+          "width": 0,
+          "x": 769,
+          "y": 287,
+          "zOrder": 2031,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Kid2",
+          "persistentUuid": "1fba9581-d114-47b8-a8b0-62c6e8f45c3d",
+          "width": 0,
+          "x": 795,
+          "y": 287,
+          "zOrder": 2032,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 32,
+          "height": 57,
+          "layer": "Dialogue3",
+          "name": "Next_Button",
+          "persistentUuid": "94ce7bfe-c76d-4d49-a6b9-b356f3893e59",
+          "width": 176,
+          "x": 717,
+          "y": 599,
+          "zOrder": 2033,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -7742,9 +7796,9 @@
             }
           ],
           "content": {
-            "text": "This text can be replace with other text",
+            "text": "Welcome to our town! Legend has it that there is a hidden treasure chest in the lake, but no fisherman has been good enough to find it.",
             "opacity": 255,
-            "scale": 2,
+            "scale": 1.5,
             "fontSize": 20,
             "tint": "255;255;255",
             "bitmapFontResourceName": "8BitOperatorPlus8Regular_Edited.fnt",
@@ -7769,9 +7823,9 @@
             }
           ],
           "content": {
-            "text": "This text can be replace with other text",
+            "text": "Fishing makes me feel so connected to the ocean and earth! I hope you can see that kinda connection through your fishing experience!",
             "opacity": 255,
-            "scale": 2,
+            "scale": 1.5,
             "fontSize": 20,
             "tint": "255;255;255",
             "bitmapFontResourceName": "8BitOperatorPlus8Regular_Edited.fnt",
@@ -11797,10 +11851,10 @@
             "objectName": "FishText"
           },
           {
-            "objectName": "RodDescrip"
+            "objectName": ""
           },
           {
-            "objectName": "RodDecide"
+            "objectName": ""
           },
           {
             "objectName": "CurrencyText"
@@ -12401,43 +12455,73 @@
                 },
                 {
                   "type": {
-                    "value": "BuiltinCommonInstructions::Once"
-                  },
-                  "parameters": []
-                },
-                {
-                  "type": {
                     "value": "Distance"
                   },
                   "parameters": [
                     "Player",
-                    "NPC2",
+                    "Merchant",
                     "20",
                     ""
                   ]
-                },
+                }
+              ],
+              "actions": [
                 {
                   "type": {
-                    "value": "SpriteMultitouchJoystick::IsButtonPressed"
+                    "value": "ShowLayer"
                   },
                   "parameters": [
                     "",
-                    "1",
-                    "\"A\"",
+                    "\"Dialogue2\""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "PanelSpriteButton::PanelSpriteButton::IsPressed"
+                  },
+                  "parameters": [
+                    "Next_Button",
                     ""
                   ]
                 },
                 {
                   "type": {
-                    "value": "KeyPressed"
+                    "value": "LayerVisible"
                   },
                   "parameters": [
                     "",
-                    "e"
+                    "\"Dialogue2\""
                   ]
                 }
               ],
-              "actions": []
+              "actions": [
+                {
+                  "type": {
+                    "value": "HideLayer"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Dialogue2\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "MettreXY"
+                  },
+                  "parameters": [
+                    "Merchant",
+                    "=",
+                    "10000",
+                    "=",
+                    "0"
+                  ]
+                }
+              ]
             },
             {
               "type": "BuiltinCommonInstructions::Standard",
@@ -12482,33 +12566,57 @@
                   },
                   "parameters": [
                     "Player",
-                    "NPC2",
+                    "Fisherman",
                     "20",
                     ""
                   ]
-                },
+                }
+              ],
+              "actions": [
                 {
                   "type": {
-                    "value": "SpriteMultitouchJoystick::IsButtonPressed"
+                    "value": "ShowLayer"
                   },
                   "parameters": [
                     "",
-                    "1",
-                    "\"A\"",
+                    "\"Dialogue3\""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "PanelSpriteButton::PanelSpriteButton::IsPressed"
+                  },
+                  "parameters": [
+                    "Next_Button",
                     ""
                   ]
                 },
                 {
                   "type": {
-                    "value": "KeyPressed"
+                    "value": "LayerVisible"
                   },
                   "parameters": [
                     "",
-                    "e"
+                    "\"Dialogue3\""
                   ]
                 }
               ],
-              "actions": []
+              "actions": [
+                {
+                  "type": {
+                    "value": "HideLayer"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Dialogue3\""
+                  ]
+                }
+              ]
             },
             {
               "type": "BuiltinCommonInstructions::Standard",
@@ -13748,7 +13856,7 @@
           "isLocked": false,
           "name": "RodShop",
           "renderingType": "",
-          "visibility": true,
+          "visibility": false,
           "cameras": [],
           "effects": [
             {
@@ -18839,40 +18947,6 @@
                 "Rod",
                 "=",
                 "1"
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "Physics2::LinearVelocityX"
-              },
-              "parameters": [
-                "Clownfish",
-                "Physics2",
-                "=",
-                "200"
-              ]
-            },
-            {
-              "type": {
-                "value": "Physics2::LinearVelocityX"
-              },
-              "parameters": [
-                "BrownTrout",
-                "Physics2",
-                "=",
-                "-200"
-              ]
-            },
-            {
-              "type": {
-                "value": "PosY"
-              },
-              "parameters": [
-                "hook",
-                "<",
-                "500"
               ]
             }
           ],
