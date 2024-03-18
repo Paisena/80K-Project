@@ -1146,6 +1146,1254 @@
         "preloadAsSound": false,
         "preloadInCache": false,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fisherman_Idle Down_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fisherman_Idle Down_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/ac4f72c570459d616d97712b52955964fad912a63e809ce425b99b0dfb2b1189_Fisherman_Idle Down_1.png",
+          "name": "Fisherman_Idle Down_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fisherman_Idle Down_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fisherman_Idle Down_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/ac4f72c570459d616d97712b52955964fad912a63e809ce425b99b0dfb2b1189_Fisherman_Idle Down_2.png",
+          "name": "Fisherman_Idle Down_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fisherman_Idle Down_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fisherman_Idle Down_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/16feebeeb325bef036be39e0ae01821b10077cf4567d5739999a789704d3d2b6_Fisherman_Idle Down_3.png",
+          "name": "Fisherman_Idle Down_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fisherman_Idle Down_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fisherman_Idle Down_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/16feebeeb325bef036be39e0ae01821b10077cf4567d5739999a789704d3d2b6_Fisherman_Idle Down_4.png",
+          "name": "Fisherman_Idle Down_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fisherman_Idle Left_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fisherman_Idle Left_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/4d0f1954caa5fdaf96d2b512366a0a7a10a8384c46f79b38474a0b1bca1b2e56_Fisherman_Idle Left_1.png",
+          "name": "Fisherman_Idle Left_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fisherman_Idle Left_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fisherman_Idle Left_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/4d0f1954caa5fdaf96d2b512366a0a7a10a8384c46f79b38474a0b1bca1b2e56_Fisherman_Idle Left_2.png",
+          "name": "Fisherman_Idle Left_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fisherman_Idle Left_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fisherman_Idle Left_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/8a115df4dd5307b44c9b8427aa6ac845cf78cdc87a6d63ce5c9b20c49f69d246_Fisherman_Idle Left_3.png",
+          "name": "Fisherman_Idle Left_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fisherman_Idle Left_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fisherman_Idle Left_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/8a115df4dd5307b44c9b8427aa6ac845cf78cdc87a6d63ce5c9b20c49f69d246_Fisherman_Idle Left_4.png",
+          "name": "Fisherman_Idle Left_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fisherman_Idle Right_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fisherman_Idle Right_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/36d71472a451f675c52d01f3b958c5348359cd657c8baefecea43c065f1acdfc_Fisherman_Idle Right_1.png",
+          "name": "Fisherman_Idle Right_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fisherman_Idle Right_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fisherman_Idle Right_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/36d71472a451f675c52d01f3b958c5348359cd657c8baefecea43c065f1acdfc_Fisherman_Idle Right_2.png",
+          "name": "Fisherman_Idle Right_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fisherman_Idle Right_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fisherman_Idle Right_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/a67bb3ead8542cb36a775f7c0f12f8e9fae9b5e87f48b62d021dd4b29d305462_Fisherman_Idle Right_3.png",
+          "name": "Fisherman_Idle Right_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fisherman_Idle Right_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fisherman_Idle Right_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/a67bb3ead8542cb36a775f7c0f12f8e9fae9b5e87f48b62d021dd4b29d305462_Fisherman_Idle Right_4.png",
+          "name": "Fisherman_Idle Right_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fisherman_Idle Up_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fisherman_Idle Up_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/c3b79f6a98f50c1fdcd55f3c2451c9e086d0655978064cf74a8e504c35ab2efb_Fisherman_Idle Up_1.png",
+          "name": "Fisherman_Idle Up_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fisherman_Idle Up_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fisherman_Idle Up_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/c3b79f6a98f50c1fdcd55f3c2451c9e086d0655978064cf74a8e504c35ab2efb_Fisherman_Idle Up_2.png",
+          "name": "Fisherman_Idle Up_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fisherman_Idle Up_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fisherman_Idle Up_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/797e41ecf84b6e4c3b68a20bfa4733b10cdd695f9b7e519c361f321211b3a0e1_Fisherman_Idle Up_3.png",
+          "name": "Fisherman_Idle Up_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fisherman_Idle Up_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fisherman_Idle Up_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/797e41ecf84b6e4c3b68a20bfa4733b10cdd695f9b7e519c361f321211b3a0e1_Fisherman_Idle Up_4.png",
+          "name": "Fisherman_Idle Up_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fisherman_Walk Down_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fisherman_Walk Down_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/833a38dd485ec22f8dc6327063235c9405a737301240103a7652b3fee2bcdae2_Fisherman_Walk Down_1.png",
+          "name": "Fisherman_Walk Down_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fisherman_Walk Down_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fisherman_Walk Down_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/1d87b6be204122f097f2044f95cff7e245e6451e90c012fb6f5dafcc5c705540_Fisherman_Walk Down_2.png",
+          "name": "Fisherman_Walk Down_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fisherman_Walk Down_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fisherman_Walk Down_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/8b0721dc73eefd02b81ed9a22b4233b5585fe1c00da81bf8ec5b660daf968b6a_Fisherman_Walk Down_3.png",
+          "name": "Fisherman_Walk Down_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fisherman_Walk Down_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fisherman_Walk Down_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/1d87b6be204122f097f2044f95cff7e245e6451e90c012fb6f5dafcc5c705540_Fisherman_Walk Down_4.png",
+          "name": "Fisherman_Walk Down_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fisherman_Walk Left_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fisherman_Walk Left_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/7efd38868e13c16a7e2bbf15d1f11ac167a0ad1805b2d5506b3ac637999bf0e3_Fisherman_Walk Left_1.png",
+          "name": "Fisherman_Walk Left_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fisherman_Walk Left_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fisherman_Walk Left_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/2a5eb5c1b77ec0a0960bc2c05e6dca2da03d30a25d8659675086bafa5f0b0344_Fisherman_Walk Left_2.png",
+          "name": "Fisherman_Walk Left_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fisherman_Walk Left_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fisherman_Walk Left_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/d9b1bbad066ae2436d1e8884efcbaa8ae68ec5afbfb738a49f00c3af58496791_Fisherman_Walk Left_3.png",
+          "name": "Fisherman_Walk Left_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fisherman_Walk Left_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fisherman_Walk Left_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/2a5eb5c1b77ec0a0960bc2c05e6dca2da03d30a25d8659675086bafa5f0b0344_Fisherman_Walk Left_4.png",
+          "name": "Fisherman_Walk Left_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fisherman_Walk Right_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fisherman_Walk Right_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/da26af5a11591dad77b0c2672ab0348c08edb8549ea9f0d9d14452f46d34e8a3_Fisherman_Walk Right_1.png",
+          "name": "Fisherman_Walk Right_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fisherman_Walk Right_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fisherman_Walk Right_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/c01b2d5de84f4a5577e1d58b1759ff4e5721912f35992a0455e9483c988d3db8_Fisherman_Walk Right_2.png",
+          "name": "Fisherman_Walk Right_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fisherman_Walk Right_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fisherman_Walk Right_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/428cd621cf54299e27606408746745b83d45fd8eb02ce7d0bf55b30401e090d5_Fisherman_Walk Right_3.png",
+          "name": "Fisherman_Walk Right_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fisherman_Walk Right_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fisherman_Walk Right_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/c01b2d5de84f4a5577e1d58b1759ff4e5721912f35992a0455e9483c988d3db8_Fisherman_Walk Right_4.png",
+          "name": "Fisherman_Walk Right_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fisherman_Walk Up_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fisherman_Walk Up_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/4ff7322cf89b0f62315f516a1712816fd9701872689d3d5660ba1f0b30aaf385_Fisherman_Walk Up_1.png",
+          "name": "Fisherman_Walk Up_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fisherman_Walk Up_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fisherman_Walk Up_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/d8f99019228495f9c26a09b1062cf0f0409040629ecf6706284d41e0bd7bec77_Fisherman_Walk Up_2.png",
+          "name": "Fisherman_Walk Up_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fisherman_Walk Up_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fisherman_Walk Up_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/ae1507a2b06e52014d8a13f0041002a42565a14913a02900084a04225b8959d5_Fisherman_Walk Up_3.png",
+          "name": "Fisherman_Walk Up_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fisherman_Walk Up_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fisherman_Walk Up_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/d8f99019228495f9c26a09b1062cf0f0409040629ecf6706284d41e0bd7bec77_Fisherman_Walk Up_4.png",
+          "name": "Fisherman_Walk Up_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Merchant_Idle Down_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Merchant_Idle Down_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/06c73481ead5b9d5b8589e0b649f17cd1da8eafc79659b8ebfbcfc18d9252ff4_Merchant_Idle Down_1.png",
+          "name": "Merchant_Idle Down_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Merchant_Idle Down_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Merchant_Idle Down_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/06c73481ead5b9d5b8589e0b649f17cd1da8eafc79659b8ebfbcfc18d9252ff4_Merchant_Idle Down_2.png",
+          "name": "Merchant_Idle Down_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Merchant_Idle Down_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Merchant_Idle Down_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/ee7a277f9062a60e511e63b59527ed94cc4f2405406d6c6ff2167896745630d6_Merchant_Idle Down_3.png",
+          "name": "Merchant_Idle Down_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Merchant_Idle Down_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Merchant_Idle Down_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/ee7a277f9062a60e511e63b59527ed94cc4f2405406d6c6ff2167896745630d6_Merchant_Idle Down_4.png",
+          "name": "Merchant_Idle Down_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Merchant_Idle Left_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Merchant_Idle Left_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/3c0c867f07546e07d7f0278282c88c2bb8139da612cd2a803f9599faa80dc63f_Merchant_Idle Left_1.png",
+          "name": "Merchant_Idle Left_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Merchant_Idle Left_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Merchant_Idle Left_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/3c0c867f07546e07d7f0278282c88c2bb8139da612cd2a803f9599faa80dc63f_Merchant_Idle Left_2.png",
+          "name": "Merchant_Idle Left_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Merchant_Idle Left_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Merchant_Idle Left_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/9dc401858b77a7c554ca8d774ca5bb2970b700ccbd4ed1c2ee641bd4d0fcb8b2_Merchant_Idle Left_3.png",
+          "name": "Merchant_Idle Left_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Merchant_Idle Left_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Merchant_Idle Left_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/9dc401858b77a7c554ca8d774ca5bb2970b700ccbd4ed1c2ee641bd4d0fcb8b2_Merchant_Idle Left_4.png",
+          "name": "Merchant_Idle Left_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Merchant_Idle Right_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Merchant_Idle Right_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/16421e33314b498aac4421fb944d8c88956b073b8e3440685ed85b4ab867465a_Merchant_Idle Right_1.png",
+          "name": "Merchant_Idle Right_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Merchant_Idle Right_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Merchant_Idle Right_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/16421e33314b498aac4421fb944d8c88956b073b8e3440685ed85b4ab867465a_Merchant_Idle Right_2.png",
+          "name": "Merchant_Idle Right_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Merchant_Idle Right_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Merchant_Idle Right_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/e399a303615ac3f84fc21026f0f23cbd0067269066f4830461da45f28c2b3f55_Merchant_Idle Right_3.png",
+          "name": "Merchant_Idle Right_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Merchant_Idle Right_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Merchant_Idle Right_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/e399a303615ac3f84fc21026f0f23cbd0067269066f4830461da45f28c2b3f55_Merchant_Idle Right_4.png",
+          "name": "Merchant_Idle Right_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Merchant_Idle Up_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Merchant_Idle Up_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/170c2b2a1cbd20413dd518013d9d0a7f35c82d934f1cfdf55ba4f92f021b2495_Merchant_Idle Up_1.png",
+          "name": "Merchant_Idle Up_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Merchant_Idle Up_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Merchant_Idle Up_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/170c2b2a1cbd20413dd518013d9d0a7f35c82d934f1cfdf55ba4f92f021b2495_Merchant_Idle Up_2.png",
+          "name": "Merchant_Idle Up_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Merchant_Idle Up_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Merchant_Idle Up_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/90b49921f9744ca41836de79166d3f71e40700171b7dc5307b7bc07c77e26257_Merchant_Idle Up_3.png",
+          "name": "Merchant_Idle Up_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Merchant_Idle Up_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Merchant_Idle Up_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/90b49921f9744ca41836de79166d3f71e40700171b7dc5307b7bc07c77e26257_Merchant_Idle Up_4.png",
+          "name": "Merchant_Idle Up_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Merchant_Walk Down_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Merchant_Walk Down_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/20f293f3c6851b26e3011d0de60aff486cdaac3a6bb3860ffd2f11491aeda536_Merchant_Walk Down_1.png",
+          "name": "Merchant_Walk Down_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Merchant_Walk Down_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Merchant_Walk Down_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/3ec7a97737b4f93b03442486d9a2d4682eca2420c02bfc1b9571cfbc21f34353_Merchant_Walk Down_2.png",
+          "name": "Merchant_Walk Down_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Merchant_Walk Down_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Merchant_Walk Down_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/4a4dd95a38998be1fc23dc017c3e9731eb10d36f787690f1e0a8c5316773a535_Merchant_Walk Down_3.png",
+          "name": "Merchant_Walk Down_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Merchant_Walk Down_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Merchant_Walk Down_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/3ec7a97737b4f93b03442486d9a2d4682eca2420c02bfc1b9571cfbc21f34353_Merchant_Walk Down_4.png",
+          "name": "Merchant_Walk Down_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Merchant_Walk Left_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Merchant_Walk Left_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/ca8ff6cbf91bc2a36ed198550f2fa3bc2440f34b8cfda92eaa7758b93b71dd57_Merchant_Walk Left_1.png",
+          "name": "Merchant_Walk Left_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Merchant_Walk Left_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Merchant_Walk Left_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/c856893db527be300b8bd6979ba27fe1954b38f7ea0c9b17c879c2c7082fb494_Merchant_Walk Left_2.png",
+          "name": "Merchant_Walk Left_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Merchant_Walk Left_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Merchant_Walk Left_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/850d4a3d24f24a6756144f5e3e4c9e6894808670991bd94c04e8e147739e6617_Merchant_Walk Left_3.png",
+          "name": "Merchant_Walk Left_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Merchant_Walk Left_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Merchant_Walk Left_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/c856893db527be300b8bd6979ba27fe1954b38f7ea0c9b17c879c2c7082fb494_Merchant_Walk Left_4.png",
+          "name": "Merchant_Walk Left_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Merchant_Walk Right_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Merchant_Walk Right_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/f768837536d5e808a30c5ad488a07f9bae1f315485c298984bf3770cb8acd613_Merchant_Walk Right_1.png",
+          "name": "Merchant_Walk Right_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Merchant_Walk Right_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Merchant_Walk Right_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/a909b22699d750f9b36b0a95fb7e366bf7caa1cc2f1d16cb663d294900361854_Merchant_Walk Right_2.png",
+          "name": "Merchant_Walk Right_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Merchant_Walk Right_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Merchant_Walk Right_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/41d407eb440193aaf4878222cf5ca07f7f8fa5171a9a597cfc6ef55b78a0df3b_Merchant_Walk Right_3.png",
+          "name": "Merchant_Walk Right_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Merchant_Walk Right_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Merchant_Walk Right_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/a909b22699d750f9b36b0a95fb7e366bf7caa1cc2f1d16cb663d294900361854_Merchant_Walk Right_4.png",
+          "name": "Merchant_Walk Right_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Merchant_Walk Up_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Merchant_Walk Up_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/8cf2960142eaee9ea0987e222fd3de21c37e66bdd9d020743a9cca1e6c859561_Merchant_Walk Up_1.png",
+          "name": "Merchant_Walk Up_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Merchant_Walk Up_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Merchant_Walk Up_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/ef8af3c66a770de442a5288964ceef4db072bc71ae268ce56bb59bbb1307ddf2_Merchant_Walk Up_2.png",
+          "name": "Merchant_Walk Up_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Merchant_Walk Up_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Merchant_Walk Up_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/ee5806e14949b1ffed95e1876961a5efde637c941943480e22d824490272ce9e_Merchant_Walk Up_3.png",
+          "name": "Merchant_Walk Up_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Merchant_Walk Up_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Merchant_Walk Up_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/ef8af3c66a770de442a5288964ceef4db072bc71ae268ce56bb59bbb1307ddf2_Merchant_Walk Up_4.png",
+          "name": "Merchant_Walk Up_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Kid 2_Idle Down_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Kid 2_Idle Down_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/7fbf4dd8bbad3b269a4626789cdbc0d1350a2a331e2c4ade40d3638670c4b3c5_Kid 2_Idle Down_1.png",
+          "name": "Kid 2_Idle Down_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Kid 2_Idle Down_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Kid 2_Idle Down_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/7fbf4dd8bbad3b269a4626789cdbc0d1350a2a331e2c4ade40d3638670c4b3c5_Kid 2_Idle Down_2.png",
+          "name": "Kid 2_Idle Down_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Kid 2_Idle Down_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Kid 2_Idle Down_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/add1ddcf5f2c4fcbd4fe959e6fc5114bfb952156921478521807f1f99f3aed0a_Kid 2_Idle Down_3.png",
+          "name": "Kid 2_Idle Down_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Kid 2_Idle Down_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Kid 2_Idle Down_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/add1ddcf5f2c4fcbd4fe959e6fc5114bfb952156921478521807f1f99f3aed0a_Kid 2_Idle Down_4.png",
+          "name": "Kid 2_Idle Down_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Kid 2_Idle Left_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Kid 2_Idle Left_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/d3e67fe3ac018bc0ff0a7a76bcbf5c12e69b9aa02c88fe566ffbd708a537b927_Kid 2_Idle Left_1.png",
+          "name": "Kid 2_Idle Left_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Kid 2_Idle Left_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Kid 2_Idle Left_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/d3e67fe3ac018bc0ff0a7a76bcbf5c12e69b9aa02c88fe566ffbd708a537b927_Kid 2_Idle Left_2.png",
+          "name": "Kid 2_Idle Left_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Kid 2_Idle Left_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Kid 2_Idle Left_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/f943d430eadbd7cf7697ab739e0e93a497f94241e9de8fe460df4a1a57f874f2_Kid 2_Idle Left_3.png",
+          "name": "Kid 2_Idle Left_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Kid 2_Idle Left_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Kid 2_Idle Left_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/f943d430eadbd7cf7697ab739e0e93a497f94241e9de8fe460df4a1a57f874f2_Kid 2_Idle Left_4.png",
+          "name": "Kid 2_Idle Left_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Kid 2_Idle Right_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Kid 2_Idle Right_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/cfba9c18f49508a486c1d4bb3f60bcb8fcecdb4c58579a4dcee5ba1e33745df1_Kid 2_Idle Right_1.png",
+          "name": "Kid 2_Idle Right_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Kid 2_Idle Right_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Kid 2_Idle Right_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/cfba9c18f49508a486c1d4bb3f60bcb8fcecdb4c58579a4dcee5ba1e33745df1_Kid 2_Idle Right_2.png",
+          "name": "Kid 2_Idle Right_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Kid 2_Idle Right_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Kid 2_Idle Right_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/52ff1d9e98ef44d4519fe5b7cd78b60520682423bd62405e7695c625418b2b53_Kid 2_Idle Right_3.png",
+          "name": "Kid 2_Idle Right_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Kid 2_Idle Right_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Kid 2_Idle Right_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/52ff1d9e98ef44d4519fe5b7cd78b60520682423bd62405e7695c625418b2b53_Kid 2_Idle Right_4.png",
+          "name": "Kid 2_Idle Right_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Kid 2_Idle Up_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Kid 2_Idle Up_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/bf77193f8ea047be71cca6ebf8f1c5b14d82898f9ef3385e4efa2e8c104aa665_Kid 2_Idle Up_1.png",
+          "name": "Kid 2_Idle Up_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Kid 2_Idle Up_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Kid 2_Idle Up_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/bf77193f8ea047be71cca6ebf8f1c5b14d82898f9ef3385e4efa2e8c104aa665_Kid 2_Idle Up_2.png",
+          "name": "Kid 2_Idle Up_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Kid 2_Idle Up_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Kid 2_Idle Up_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/59020213d92e9c5a2eb78d0831f2aa591f0dd2da5e95077289a8ed0136bf1d52_Kid 2_Idle Up_3.png",
+          "name": "Kid 2_Idle Up_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Kid 2_Idle Up_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Kid 2_Idle Up_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/59020213d92e9c5a2eb78d0831f2aa591f0dd2da5e95077289a8ed0136bf1d52_Kid 2_Idle Up_4.png",
+          "name": "Kid 2_Idle Up_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Kid 2_Walk Down_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Kid 2_Walk Down_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/94987d21930051418495d23c3c865dcf749d21daca777f878ec3ca82b59c431e_Kid 2_Walk Down_1.png",
+          "name": "Kid 2_Walk Down_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Kid 2_Walk Down_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Kid 2_Walk Down_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/9ba7582b627bbb9ed00afed18f64e6fbb701882e442fdd536c01a98184b0635f_Kid 2_Walk Down_2.png",
+          "name": "Kid 2_Walk Down_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Kid 2_Walk Down_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Kid 2_Walk Down_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/148ccaa1665f45814a31a65e51fa68851fd4373b49373b3242c13a94630138b7_Kid 2_Walk Down_3.png",
+          "name": "Kid 2_Walk Down_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Kid 2_Walk Down_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Kid 2_Walk Down_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/9ba7582b627bbb9ed00afed18f64e6fbb701882e442fdd536c01a98184b0635f_Kid 2_Walk Down_4.png",
+          "name": "Kid 2_Walk Down_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Kid 2_Walk Left_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Kid 2_Walk Left_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/deb8810572bc918d53156e7941c489c19982f67aad04b7fdbd6c3d372ea010a6_Kid 2_Walk Left_1.png",
+          "name": "Kid 2_Walk Left_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Kid 2_Walk Left_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Kid 2_Walk Left_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/294f34f4ee2f409271ff8da833d1821ad245bc46c2dd5294de96a7816389d50f_Kid 2_Walk Left_2.png",
+          "name": "Kid 2_Walk Left_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Kid 2_Walk Left_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Kid 2_Walk Left_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/75c840fce625af542f2ca9911fc0fb709bc7c603a874ac77f7660cce0694f86f_Kid 2_Walk Left_3.png",
+          "name": "Kid 2_Walk Left_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Kid 2_Walk Left_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Kid 2_Walk Left_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/294f34f4ee2f409271ff8da833d1821ad245bc46c2dd5294de96a7816389d50f_Kid 2_Walk Left_4.png",
+          "name": "Kid 2_Walk Left_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Kid 2_Walk Right_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Kid 2_Walk Right_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/454cf71a31fe008ef1d2b973b7c931ef2d910493512f117f8037812925a11120_Kid 2_Walk Right_1.png",
+          "name": "Kid 2_Walk Right_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Kid 2_Walk Right_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Kid 2_Walk Right_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/5c9de4ee7d9a4310c68d2420ae33ac5eab29d6c25e5a2f2e21187e3f6721d119_Kid 2_Walk Right_2.png",
+          "name": "Kid 2_Walk Right_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Kid 2_Walk Right_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Kid 2_Walk Right_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/089ef01b4d701563f8655f0626385f3f7ac3704827ccf0f8173c8b1487e32bf8_Kid 2_Walk Right_3.png",
+          "name": "Kid 2_Walk Right_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Kid 2_Walk Right_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Kid 2_Walk Right_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/5c9de4ee7d9a4310c68d2420ae33ac5eab29d6c25e5a2f2e21187e3f6721d119_Kid 2_Walk Right_4.png",
+          "name": "Kid 2_Walk Right_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Kid 2_Walk Up_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Kid 2_Walk Up_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/f8a82013e4bbfd2d2ed69a6e99adce2e35a1f37a832a9d4fe23f8190c60a8712_Kid 2_Walk Up_1.png",
+          "name": "Kid 2_Walk Up_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Kid 2_Walk Up_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Kid 2_Walk Up_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/359609a99ab1c6da546cd6bd10511181319921cba2be5a24e1a5455511279163_Kid 2_Walk Up_2.png",
+          "name": "Kid 2_Walk Up_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Kid 2_Walk Up_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Kid 2_Walk Up_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/0faf1fd1a38b7ba0022705e3033379f80269c4b967c500e5c59376363ac8f7bf_Kid 2_Walk Up_3.png",
+          "name": "Kid 2_Walk Up_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Kid 2_Walk Up_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Kid 2_Walk Up_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/359609a99ab1c6da546cd6bd10511181319921cba2be5a24e1a5455511279163_Kid 2_Walk Up_4.png",
+          "name": "Kid 2_Walk Up_4.png"
+        }
       }
     ],
     "resourceFolders": []
@@ -1255,7 +2503,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.2,
         "snap": false,
-        "zoomFactor": 1.0000000000000144,
+        "zoomFactor": 3.411246716812875,
         "windowMask": false
       },
       "objectsGroups": [
@@ -3564,6 +4812,36 @@
           "x": 720,
           "y": 604,
           "zOrder": 2027,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Fisherman",
+          "persistentUuid": "6b6b210b-7fdf-4345-9a3d-b834de389736",
+          "width": 0,
+          "x": 756,
+          "y": 286,
+          "zOrder": 2028,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Merchant",
+          "persistentUuid": "85861cd6-b43b-4006-971b-546b449d34a5",
+          "width": 0,
+          "x": 713,
+          "y": 299,
+          "zOrder": 2029,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -6507,6 +7785,3793 @@
               "width": 256
             }
           }
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "47a47a4d0551362bd590e952f32b5612c179e1af9e3c59451e6275ba2b65c557",
+          "name": "Fisherman",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "Idle Down",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.25,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Fisherman_Idle Down_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 6
+                          },
+                          {
+                            "x": 14,
+                            "y": 6
+                          },
+                          {
+                            "x": 14,
+                            "y": 24
+                          },
+                          {
+                            "x": 0,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Fisherman_Idle Down_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 6
+                          },
+                          {
+                            "x": 14,
+                            "y": 6
+                          },
+                          {
+                            "x": 14,
+                            "y": 24
+                          },
+                          {
+                            "x": 0,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Fisherman_Idle Down_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 6
+                          },
+                          {
+                            "x": 14,
+                            "y": 6
+                          },
+                          {
+                            "x": 14,
+                            "y": 24
+                          },
+                          {
+                            "x": 0,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Fisherman_Idle Down_4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 6
+                          },
+                          {
+                            "x": 14,
+                            "y": 6
+                          },
+                          {
+                            "x": 14,
+                            "y": 24
+                          },
+                          {
+                            "x": 0,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Idle Left",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.25,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Fisherman_Idle Left_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 6
+                          },
+                          {
+                            "x": 14,
+                            "y": 6
+                          },
+                          {
+                            "x": 14,
+                            "y": 24
+                          },
+                          {
+                            "x": 0,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Fisherman_Idle Left_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 6
+                          },
+                          {
+                            "x": 14,
+                            "y": 6
+                          },
+                          {
+                            "x": 14,
+                            "y": 24
+                          },
+                          {
+                            "x": 0,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Fisherman_Idle Left_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 6
+                          },
+                          {
+                            "x": 14,
+                            "y": 6
+                          },
+                          {
+                            "x": 14,
+                            "y": 24
+                          },
+                          {
+                            "x": 0,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Fisherman_Idle Left_4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 6
+                          },
+                          {
+                            "x": 14,
+                            "y": 6
+                          },
+                          {
+                            "x": 14,
+                            "y": 24
+                          },
+                          {
+                            "x": 0,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Idle Right",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.25,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Fisherman_Idle Right_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 6
+                          },
+                          {
+                            "x": 14,
+                            "y": 6
+                          },
+                          {
+                            "x": 14,
+                            "y": 24
+                          },
+                          {
+                            "x": 0,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Fisherman_Idle Right_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 6
+                          },
+                          {
+                            "x": 14,
+                            "y": 6
+                          },
+                          {
+                            "x": 14,
+                            "y": 24
+                          },
+                          {
+                            "x": 0,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Fisherman_Idle Right_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 6
+                          },
+                          {
+                            "x": 14,
+                            "y": 6
+                          },
+                          {
+                            "x": 14,
+                            "y": 24
+                          },
+                          {
+                            "x": 0,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Fisherman_Idle Right_4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 6
+                          },
+                          {
+                            "x": 14,
+                            "y": 6
+                          },
+                          {
+                            "x": 14,
+                            "y": 24
+                          },
+                          {
+                            "x": 0,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Idle Up",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.25,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Fisherman_Idle Up_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 6
+                          },
+                          {
+                            "x": 14,
+                            "y": 6
+                          },
+                          {
+                            "x": 14,
+                            "y": 24
+                          },
+                          {
+                            "x": 0,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Fisherman_Idle Up_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 6
+                          },
+                          {
+                            "x": 14,
+                            "y": 6
+                          },
+                          {
+                            "x": 14,
+                            "y": 24
+                          },
+                          {
+                            "x": 0,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Fisherman_Idle Up_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 6
+                          },
+                          {
+                            "x": 14,
+                            "y": 6
+                          },
+                          {
+                            "x": 14,
+                            "y": 24
+                          },
+                          {
+                            "x": 0,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Fisherman_Idle Up_4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 6
+                          },
+                          {
+                            "x": 14,
+                            "y": 6
+                          },
+                          {
+                            "x": 14,
+                            "y": 24
+                          },
+                          {
+                            "x": 0,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Walk Down",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.25,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Fisherman_Walk Down_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 6
+                          },
+                          {
+                            "x": 14,
+                            "y": 6
+                          },
+                          {
+                            "x": 14,
+                            "y": 24
+                          },
+                          {
+                            "x": 0,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Fisherman_Walk Down_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 6
+                          },
+                          {
+                            "x": 14,
+                            "y": 6
+                          },
+                          {
+                            "x": 14,
+                            "y": 24
+                          },
+                          {
+                            "x": 0,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Fisherman_Walk Down_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 6
+                          },
+                          {
+                            "x": 14,
+                            "y": 6
+                          },
+                          {
+                            "x": 14,
+                            "y": 24
+                          },
+                          {
+                            "x": 0,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Fisherman_Walk Down_4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 6
+                          },
+                          {
+                            "x": 14,
+                            "y": 6
+                          },
+                          {
+                            "x": 14,
+                            "y": 24
+                          },
+                          {
+                            "x": 0,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Walk Left",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.25,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Fisherman_Walk Left_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 6
+                          },
+                          {
+                            "x": 14,
+                            "y": 6
+                          },
+                          {
+                            "x": 14,
+                            "y": 24
+                          },
+                          {
+                            "x": 0,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Fisherman_Walk Left_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 6
+                          },
+                          {
+                            "x": 14,
+                            "y": 6
+                          },
+                          {
+                            "x": 14,
+                            "y": 24
+                          },
+                          {
+                            "x": 0,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Fisherman_Walk Left_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 6
+                          },
+                          {
+                            "x": 14,
+                            "y": 6
+                          },
+                          {
+                            "x": 14,
+                            "y": 24
+                          },
+                          {
+                            "x": 0,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Fisherman_Walk Left_4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 6
+                          },
+                          {
+                            "x": 14,
+                            "y": 6
+                          },
+                          {
+                            "x": 14,
+                            "y": 24
+                          },
+                          {
+                            "x": 0,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Walk Right",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.25,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Fisherman_Walk Right_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 6
+                          },
+                          {
+                            "x": 14,
+                            "y": 6
+                          },
+                          {
+                            "x": 14,
+                            "y": 24
+                          },
+                          {
+                            "x": 0,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Fisherman_Walk Right_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 6
+                          },
+                          {
+                            "x": 14,
+                            "y": 6
+                          },
+                          {
+                            "x": 14,
+                            "y": 24
+                          },
+                          {
+                            "x": 0,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Fisherman_Walk Right_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 6
+                          },
+                          {
+                            "x": 14,
+                            "y": 6
+                          },
+                          {
+                            "x": 14,
+                            "y": 24
+                          },
+                          {
+                            "x": 0,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Fisherman_Walk Right_4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 6
+                          },
+                          {
+                            "x": 14,
+                            "y": 6
+                          },
+                          {
+                            "x": 14,
+                            "y": 24
+                          },
+                          {
+                            "x": 0,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Walk Up",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.25,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Fisherman_Walk Up_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 6
+                          },
+                          {
+                            "x": 14,
+                            "y": 6
+                          },
+                          {
+                            "x": 14,
+                            "y": 24
+                          },
+                          {
+                            "x": 0,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Fisherman_Walk Up_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 6
+                          },
+                          {
+                            "x": 14,
+                            "y": 6
+                          },
+                          {
+                            "x": 14,
+                            "y": 24
+                          },
+                          {
+                            "x": 0,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Fisherman_Walk Up_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 6
+                          },
+                          {
+                            "x": 14,
+                            "y": 6
+                          },
+                          {
+                            "x": 14,
+                            "y": 24
+                          },
+                          {
+                            "x": 0,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Fisherman_Walk Up_4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 6
+                          },
+                          {
+                            "x": 14,
+                            "y": 6
+                          },
+                          {
+                            "x": 14,
+                            "y": 24
+                          },
+                          {
+                            "x": 0,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "3626c4c375c5cc7d5e25dc294859f738db763cbfb4bf5f3bf29892fc8f455257",
+          "name": "Merchant",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [
+            {
+              "folded": true,
+              "name": "vBeginning",
+              "type": "number",
+              "value": 0
+            }
+          ],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "Idle Down",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.25,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Merchant_Idle Down_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 7
+                          },
+                          {
+                            "x": 15,
+                            "y": 7
+                          },
+                          {
+                            "x": 15,
+                            "y": 24
+                          },
+                          {
+                            "x": 1,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Merchant_Idle Down_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 7
+                          },
+                          {
+                            "x": 15,
+                            "y": 7
+                          },
+                          {
+                            "x": 15,
+                            "y": 24
+                          },
+                          {
+                            "x": 1,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Merchant_Idle Down_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 7
+                          },
+                          {
+                            "x": 15,
+                            "y": 7
+                          },
+                          {
+                            "x": 15,
+                            "y": 24
+                          },
+                          {
+                            "x": 1,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Merchant_Idle Down_4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 7
+                          },
+                          {
+                            "x": 15,
+                            "y": 7
+                          },
+                          {
+                            "x": 15,
+                            "y": 24
+                          },
+                          {
+                            "x": 1,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Idle Left",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.25,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Merchant_Idle Left_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 7
+                          },
+                          {
+                            "x": 15,
+                            "y": 7
+                          },
+                          {
+                            "x": 15,
+                            "y": 24
+                          },
+                          {
+                            "x": 1,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Merchant_Idle Left_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 7
+                          },
+                          {
+                            "x": 15,
+                            "y": 7
+                          },
+                          {
+                            "x": 15,
+                            "y": 24
+                          },
+                          {
+                            "x": 1,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Merchant_Idle Left_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 7
+                          },
+                          {
+                            "x": 15,
+                            "y": 7
+                          },
+                          {
+                            "x": 15,
+                            "y": 24
+                          },
+                          {
+                            "x": 1,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Merchant_Idle Left_4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 7
+                          },
+                          {
+                            "x": 15,
+                            "y": 7
+                          },
+                          {
+                            "x": 15,
+                            "y": 24
+                          },
+                          {
+                            "x": 1,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Idle Right",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.25,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Merchant_Idle Right_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 7
+                          },
+                          {
+                            "x": 15,
+                            "y": 7
+                          },
+                          {
+                            "x": 15,
+                            "y": 24
+                          },
+                          {
+                            "x": 1,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Merchant_Idle Right_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 7
+                          },
+                          {
+                            "x": 15,
+                            "y": 7
+                          },
+                          {
+                            "x": 15,
+                            "y": 24
+                          },
+                          {
+                            "x": 1,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Merchant_Idle Right_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 7
+                          },
+                          {
+                            "x": 15,
+                            "y": 7
+                          },
+                          {
+                            "x": 15,
+                            "y": 24
+                          },
+                          {
+                            "x": 1,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Merchant_Idle Right_4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 7
+                          },
+                          {
+                            "x": 15,
+                            "y": 7
+                          },
+                          {
+                            "x": 15,
+                            "y": 24
+                          },
+                          {
+                            "x": 1,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Idle Up",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.25,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Merchant_Idle Up_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 7
+                          },
+                          {
+                            "x": 15,
+                            "y": 7
+                          },
+                          {
+                            "x": 15,
+                            "y": 24
+                          },
+                          {
+                            "x": 1,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Merchant_Idle Up_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 7
+                          },
+                          {
+                            "x": 15,
+                            "y": 7
+                          },
+                          {
+                            "x": 15,
+                            "y": 24
+                          },
+                          {
+                            "x": 1,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Merchant_Idle Up_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 7
+                          },
+                          {
+                            "x": 15,
+                            "y": 7
+                          },
+                          {
+                            "x": 15,
+                            "y": 24
+                          },
+                          {
+                            "x": 1,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Merchant_Idle Up_4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 7
+                          },
+                          {
+                            "x": 15,
+                            "y": 7
+                          },
+                          {
+                            "x": 15,
+                            "y": 24
+                          },
+                          {
+                            "x": 1,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Walk Down",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.25,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Merchant_Walk Down_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 7
+                          },
+                          {
+                            "x": 15,
+                            "y": 7
+                          },
+                          {
+                            "x": 15,
+                            "y": 24
+                          },
+                          {
+                            "x": 1,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Merchant_Walk Down_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 7
+                          },
+                          {
+                            "x": 15,
+                            "y": 7
+                          },
+                          {
+                            "x": 15,
+                            "y": 24
+                          },
+                          {
+                            "x": 1,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Merchant_Walk Down_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 7
+                          },
+                          {
+                            "x": 15,
+                            "y": 7
+                          },
+                          {
+                            "x": 15,
+                            "y": 24
+                          },
+                          {
+                            "x": 1,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Merchant_Walk Down_4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 7
+                          },
+                          {
+                            "x": 15,
+                            "y": 7
+                          },
+                          {
+                            "x": 15,
+                            "y": 24
+                          },
+                          {
+                            "x": 1,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Walk Left",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.25,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Merchant_Walk Left_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 7
+                          },
+                          {
+                            "x": 15,
+                            "y": 7
+                          },
+                          {
+                            "x": 15,
+                            "y": 24
+                          },
+                          {
+                            "x": 1,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Merchant_Walk Left_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 7
+                          },
+                          {
+                            "x": 15,
+                            "y": 7
+                          },
+                          {
+                            "x": 15,
+                            "y": 24
+                          },
+                          {
+                            "x": 1,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Merchant_Walk Left_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 7
+                          },
+                          {
+                            "x": 15,
+                            "y": 7
+                          },
+                          {
+                            "x": 15,
+                            "y": 24
+                          },
+                          {
+                            "x": 1,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Merchant_Walk Left_4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 7
+                          },
+                          {
+                            "x": 15,
+                            "y": 7
+                          },
+                          {
+                            "x": 15,
+                            "y": 24
+                          },
+                          {
+                            "x": 1,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Walk Right",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.25,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Merchant_Walk Right_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 7
+                          },
+                          {
+                            "x": 15,
+                            "y": 7
+                          },
+                          {
+                            "x": 15,
+                            "y": 24
+                          },
+                          {
+                            "x": 1,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Merchant_Walk Right_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 7
+                          },
+                          {
+                            "x": 15,
+                            "y": 7
+                          },
+                          {
+                            "x": 15,
+                            "y": 24
+                          },
+                          {
+                            "x": 1,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Merchant_Walk Right_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 7
+                          },
+                          {
+                            "x": 15,
+                            "y": 7
+                          },
+                          {
+                            "x": 15,
+                            "y": 24
+                          },
+                          {
+                            "x": 1,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Merchant_Walk Right_4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 7
+                          },
+                          {
+                            "x": 15,
+                            "y": 7
+                          },
+                          {
+                            "x": 15,
+                            "y": 24
+                          },
+                          {
+                            "x": 1,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Walk Up",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.25,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Merchant_Walk Up_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 7
+                          },
+                          {
+                            "x": 15,
+                            "y": 7
+                          },
+                          {
+                            "x": 15,
+                            "y": 24
+                          },
+                          {
+                            "x": 1,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Merchant_Walk Up_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 7
+                          },
+                          {
+                            "x": 15,
+                            "y": 7
+                          },
+                          {
+                            "x": 15,
+                            "y": 24
+                          },
+                          {
+                            "x": 1,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Merchant_Walk Up_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 7
+                          },
+                          {
+                            "x": 15,
+                            "y": 7
+                          },
+                          {
+                            "x": 15,
+                            "y": 24
+                          },
+                          {
+                            "x": 1,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Merchant_Walk Up_4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 7
+                          },
+                          {
+                            "x": 15,
+                            "y": 7
+                          },
+                          {
+                            "x": 15,
+                            "y": 24
+                          },
+                          {
+                            "x": 1,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "8a990f2976649c9e7492f66fd050b170d0792de9e9ee0bf1e2869b9583c966ca",
+          "name": "Kid2",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "Idle Down",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.25,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Kid 2_Idle Down_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 10
+                          },
+                          {
+                            "x": 14,
+                            "y": 10
+                          },
+                          {
+                            "x": 14,
+                            "y": 24
+                          },
+                          {
+                            "x": 2,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Kid 2_Idle Down_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 10
+                          },
+                          {
+                            "x": 14,
+                            "y": 10
+                          },
+                          {
+                            "x": 14,
+                            "y": 24
+                          },
+                          {
+                            "x": 2,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Kid 2_Idle Down_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 10
+                          },
+                          {
+                            "x": 14,
+                            "y": 10
+                          },
+                          {
+                            "x": 14,
+                            "y": 24
+                          },
+                          {
+                            "x": 2,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Kid 2_Idle Down_4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 10
+                          },
+                          {
+                            "x": 14,
+                            "y": 10
+                          },
+                          {
+                            "x": 14,
+                            "y": 24
+                          },
+                          {
+                            "x": 2,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Idle Left",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.25,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Kid 2_Idle Left_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 10
+                          },
+                          {
+                            "x": 14,
+                            "y": 10
+                          },
+                          {
+                            "x": 14,
+                            "y": 24
+                          },
+                          {
+                            "x": 2,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Kid 2_Idle Left_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 10
+                          },
+                          {
+                            "x": 14,
+                            "y": 10
+                          },
+                          {
+                            "x": 14,
+                            "y": 24
+                          },
+                          {
+                            "x": 2,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Kid 2_Idle Left_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 10
+                          },
+                          {
+                            "x": 14,
+                            "y": 10
+                          },
+                          {
+                            "x": 14,
+                            "y": 24
+                          },
+                          {
+                            "x": 2,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Kid 2_Idle Left_4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 10
+                          },
+                          {
+                            "x": 14,
+                            "y": 10
+                          },
+                          {
+                            "x": 14,
+                            "y": 24
+                          },
+                          {
+                            "x": 2,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Idle Right",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.25,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Kid 2_Idle Right_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 10
+                          },
+                          {
+                            "x": 14,
+                            "y": 10
+                          },
+                          {
+                            "x": 14,
+                            "y": 24
+                          },
+                          {
+                            "x": 2,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Kid 2_Idle Right_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 10
+                          },
+                          {
+                            "x": 14,
+                            "y": 10
+                          },
+                          {
+                            "x": 14,
+                            "y": 24
+                          },
+                          {
+                            "x": 2,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Kid 2_Idle Right_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 10
+                          },
+                          {
+                            "x": 14,
+                            "y": 10
+                          },
+                          {
+                            "x": 14,
+                            "y": 24
+                          },
+                          {
+                            "x": 2,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Kid 2_Idle Right_4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 10
+                          },
+                          {
+                            "x": 14,
+                            "y": 10
+                          },
+                          {
+                            "x": 14,
+                            "y": 24
+                          },
+                          {
+                            "x": 2,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Idle Up",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.25,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Kid 2_Idle Up_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 10
+                          },
+                          {
+                            "x": 14,
+                            "y": 10
+                          },
+                          {
+                            "x": 14,
+                            "y": 24
+                          },
+                          {
+                            "x": 2,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Kid 2_Idle Up_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 10
+                          },
+                          {
+                            "x": 14,
+                            "y": 10
+                          },
+                          {
+                            "x": 14,
+                            "y": 24
+                          },
+                          {
+                            "x": 2,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Kid 2_Idle Up_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 10
+                          },
+                          {
+                            "x": 14,
+                            "y": 10
+                          },
+                          {
+                            "x": 14,
+                            "y": 24
+                          },
+                          {
+                            "x": 2,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Kid 2_Idle Up_4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 10
+                          },
+                          {
+                            "x": 14,
+                            "y": 10
+                          },
+                          {
+                            "x": 14,
+                            "y": 24
+                          },
+                          {
+                            "x": 2,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Walk Down",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.25,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Kid 2_Walk Down_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 10
+                          },
+                          {
+                            "x": 14,
+                            "y": 10
+                          },
+                          {
+                            "x": 14,
+                            "y": 24
+                          },
+                          {
+                            "x": 2,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Kid 2_Walk Down_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 10
+                          },
+                          {
+                            "x": 14,
+                            "y": 10
+                          },
+                          {
+                            "x": 14,
+                            "y": 24
+                          },
+                          {
+                            "x": 2,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Kid 2_Walk Down_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 10
+                          },
+                          {
+                            "x": 14,
+                            "y": 10
+                          },
+                          {
+                            "x": 14,
+                            "y": 24
+                          },
+                          {
+                            "x": 2,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Kid 2_Walk Down_4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 10
+                          },
+                          {
+                            "x": 14,
+                            "y": 10
+                          },
+                          {
+                            "x": 14,
+                            "y": 24
+                          },
+                          {
+                            "x": 2,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Walk Left",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.25,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Kid 2_Walk Left_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 10
+                          },
+                          {
+                            "x": 14,
+                            "y": 10
+                          },
+                          {
+                            "x": 14,
+                            "y": 24
+                          },
+                          {
+                            "x": 2,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Kid 2_Walk Left_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 10
+                          },
+                          {
+                            "x": 14,
+                            "y": 10
+                          },
+                          {
+                            "x": 14,
+                            "y": 24
+                          },
+                          {
+                            "x": 2,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Kid 2_Walk Left_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 10
+                          },
+                          {
+                            "x": 14,
+                            "y": 10
+                          },
+                          {
+                            "x": 14,
+                            "y": 24
+                          },
+                          {
+                            "x": 2,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Kid 2_Walk Left_4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 10
+                          },
+                          {
+                            "x": 14,
+                            "y": 10
+                          },
+                          {
+                            "x": 14,
+                            "y": 24
+                          },
+                          {
+                            "x": 2,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Walk Right",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.25,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Kid 2_Walk Right_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 10
+                          },
+                          {
+                            "x": 14,
+                            "y": 10
+                          },
+                          {
+                            "x": 14,
+                            "y": 24
+                          },
+                          {
+                            "x": 2,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Kid 2_Walk Right_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 10
+                          },
+                          {
+                            "x": 14,
+                            "y": 10
+                          },
+                          {
+                            "x": 14,
+                            "y": 24
+                          },
+                          {
+                            "x": 2,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Kid 2_Walk Right_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 10
+                          },
+                          {
+                            "x": 14,
+                            "y": 10
+                          },
+                          {
+                            "x": 14,
+                            "y": 24
+                          },
+                          {
+                            "x": 2,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Kid 2_Walk Right_4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 10
+                          },
+                          {
+                            "x": 14,
+                            "y": 10
+                          },
+                          {
+                            "x": 14,
+                            "y": 24
+                          },
+                          {
+                            "x": 2,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Walk Up",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.25,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Kid 2_Walk Up_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 10
+                          },
+                          {
+                            "x": 14,
+                            "y": 10
+                          },
+                          {
+                            "x": 14,
+                            "y": 24
+                          },
+                          {
+                            "x": 2,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Kid 2_Walk Up_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 10
+                          },
+                          {
+                            "x": 14,
+                            "y": 10
+                          },
+                          {
+                            "x": 14,
+                            "y": 24
+                          },
+                          {
+                            "x": 2,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Kid 2_Walk Up_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 10
+                          },
+                          {
+                            "x": 14,
+                            "y": 10
+                          },
+                          {
+                            "x": 14,
+                            "y": 24
+                          },
+                          {
+                            "x": 2,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Kid 2_Walk Up_4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 10
+                          },
+                          {
+                            "x": 14,
+                            "y": 10
+                          },
+                          {
+                            "x": 14,
+                            "y": 24
+                          },
+                          {
+                            "x": 2,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "objectsFolderStructure": {
@@ -6655,6 +11720,15 @@
           },
           {
             "objectName": "CurrencyText"
+          },
+          {
+            "objectName": "Fisherman"
+          },
+          {
+            "objectName": "Merchant"
+          },
+          {
+            "objectName": "Kid2"
           }
         ]
       },
@@ -6777,6 +11851,23 @@
               ]
             }
           ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "VarObjet"
+              },
+              "parameters": [
+                "Merchant",
+                "vBeginning",
+                "=",
+                "0"
+              ]
+            }
+          ],
+          "actions": []
         },
         {
           "type": "BuiltinCommonInstructions::Standard",
