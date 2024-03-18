@@ -2528,7 +2528,7 @@
       "folded": true,
       "name": "Fishes",
       "type": "number",
-      "value": 45
+      "value": 0
     },
     {
       "folded": true,
@@ -2540,7 +2540,7 @@
       "folded": true,
       "name": "Currency",
       "type": "number",
-      "value": 1000
+      "value": 0
     },
     {
       "folded": true,
@@ -2868,21 +2868,6 @@
           "x": 669,
           "y": 198,
           "zOrder": 18,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "name": "House1",
-          "persistentUuid": "257f2fba-4cf0-4939-a27a-8a1be20a6360",
-          "width": 0,
-          "x": 772,
-          "y": 151,
-          "zOrder": 19,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -3535,21 +3520,6 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 28,
-          "layer": "Collision",
-          "name": "CollisionDetect",
-          "persistentUuid": "063f50b1-819e-48f0-83d8-6b9d823382b0",
-          "width": 64,
-          "x": 737,
-          "y": 125,
-          "zOrder": 37,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
           "height": 43,
           "layer": "Collision",
           "name": "CollisionDetect",
@@ -4172,36 +4142,6 @@
           "customSize": false,
           "height": 0,
           "layer": "",
-          "name": "House1",
-          "persistentUuid": "1617e46b-73cf-4a15-83a5-6d73899c0a54",
-          "width": 0,
-          "x": 772,
-          "y": 247,
-          "zOrder": 19,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 28,
-          "layer": "Collision",
-          "name": "CollisionDetect",
-          "persistentUuid": "748e3900-a1ad-46bd-bf07-fbaa23fa3a92",
-          "width": 64,
-          "x": 737,
-          "y": 221,
-          "zOrder": 37,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
           "name": "Tree1",
           "persistentUuid": "5ce48746-120f-4f67-a544-11f33773ede8",
           "width": 0,
@@ -4472,13 +4412,13 @@
           "angle": 0,
           "customSize": true,
           "depth": 32,
-          "height": 50,
+          "height": 51,
           "layer": "",
           "name": "YellowButton",
           "persistentUuid": "fc81300d-d104-46b7-970d-98c987a43979",
-          "width": 121,
+          "width": 118,
           "x": 825,
-          "y": 348,
+          "y": 347,
           "zOrder": 2004,
           "numberProperties": [],
           "stringProperties": [],
@@ -4557,8 +4497,8 @@
           "name": "TextBorder",
           "persistentUuid": "29e95667-0a37-40e0-880c-e5e3c7af1cdf",
           "width": 1220,
-          "x": 29,
-          "y": 25,
+          "x": 27,
+          "y": 10,
           "zOrder": 2009,
           "numberProperties": [],
           "stringProperties": [],
@@ -4590,21 +4530,6 @@
           "x": 75,
           "y": 61,
           "zOrder": 2011,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "RodShop",
-          "name": "Downgrade",
-          "persistentUuid": "5a052036-b4e3-4556-8405-4584bc741196",
-          "width": 0,
-          "x": 77,
-          "y": 262,
-          "zOrder": 2012,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -4733,22 +4658,6 @@
         },
         {
           "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 13,
-          "layer": "",
-          "name": "NPC2",
-          "persistentUuid": "e457bd0e-7578-42f6-b4f1-6222015ddfab",
-          "width": 14,
-          "x": 785,
-          "y": 152,
-          "zOrder": 2021,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
           "customSize": false,
           "height": 0,
           "layer": "",
@@ -4758,22 +4667,6 @@
           "x": 784,
           "y": 151,
           "zOrder": -10001,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 16,
-          "layer": "",
-          "name": "NPC3",
-          "persistentUuid": "ebf03bbb-a5ec-4011-8a42-aa6039d36ed5",
-          "width": 16,
-          "x": 784,
-          "y": 248,
-          "zOrder": 2022,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -7860,9 +7753,9 @@
             }
           ],
           "content": {
-            "text": "Welcome to our town! Legend has it that there is a hidden treasure chest in the lake, but no fisherman has been good enough to find it.",
+            "text": "Welcome to our town! Legend has it that there is a hidden treasure chest in the lake, but no fisherman has been good enough to find it. Good luck in your endeavours!",
             "opacity": 255,
-            "scale": 1.5,
+            "scale": 1.15,
             "fontSize": 20,
             "tint": "255;255;255",
             "bitmapFontResourceName": "8BitOperatorPlus8Regular_Edited.fnt",
@@ -7889,7 +7782,7 @@
           "content": {
             "text": "Fishing makes me feel so connected to the ocean and earth! I hope you can see that kinda connection through your fishing experience!",
             "opacity": 255,
-            "scale": 1.5,
+            "scale": 1.15,
             "fontSize": 20,
             "tint": "255;255;255",
             "bitmapFontResourceName": "8BitOperatorPlus8Regular_Edited.fnt",
@@ -12165,23 +12058,6 @@
               ]
             }
           ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "VarObjet"
-              },
-              "parameters": [
-                "Merchant",
-                "vBeginning",
-                "=",
-                "0"
-              ]
-            }
-          ],
-          "actions": []
         },
         {
           "type": "BuiltinCommonInstructions::Standard",
@@ -20038,7 +19914,7 @@
                   "parameters": [
                     "SunkenChest",
                     "=",
-                    "boat.X()+20",
+                    "boat.X()+50",
                     "=",
                     "boat.Y()+35"
                   ]
