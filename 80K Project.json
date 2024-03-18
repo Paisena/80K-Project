@@ -1113,11 +1113,38 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "assets/Rod3.png",
+        "file": "assets/Sunken Chest_No Shadow2.png",
         "kind": "image",
         "metadata": "",
-        "name": "assets\\Rod3.png",
-        "smoothed": true,
+        "name": "Sunken Chest_No Shadow.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/32x32 Fantasy Icons Pack v2/Icons/Fishing Items/3727ad7ed8656eaf6176aa352c1d4304280e61139b875c3e586098c2011f1095_Sunken Chest_No Shadow.png",
+          "name": "Sunken Chest_No Shadow.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Sunken Chest_Shadow2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sunken Chest_Shadow.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/32x32 Fantasy Icons Pack v2/Icons/Fishing Items/39e77620ea2cbdf3e2ebfcb9feb8b85195e32936ad0b0e93a1f4acfbf168472e_Sunken Chest_Shadow.png",
+          "name": "Sunken Chest_Shadow.png"
+        }
+      },
+      {
+        "file": "oceansfx.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "oceansfx.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
         "userAdded": true
       }
     ],
@@ -10693,30 +10720,14 @@
         {
           "angle": 0,
           "customSize": true,
-          "depth": 32,
-          "height": 22,
-          "layer": "",
-          "name": "BlueDotBar",
-          "persistentUuid": "a200c9cd-0977-4e57-b415-c22333c1fd5c",
-          "width": 198,
-          "x": 1058,
-          "y": 15,
-          "zOrder": 5,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
           "depth": 1,
           "height": 82,
           "layer": "",
           "name": "TropicalFish",
           "persistentUuid": "25c9670e-c0ed-4f5f-b5d4-a29ebdd6f81a",
           "width": 95,
-          "x": 1156,
-          "y": 450,
+          "x": 1151,
+          "y": 534,
           "zOrder": 31,
           "numberProperties": [],
           "stringProperties": [],
@@ -10731,8 +10742,8 @@
           "name": "Octopus",
           "persistentUuid": "d44270b0-d72f-48d5-8a8c-a4b05cf45165",
           "width": 80,
-          "x": 38,
-          "y": 352,
+          "x": 1156,
+          "y": 457,
           "zOrder": 27,
           "numberProperties": [],
           "stringProperties": [],
@@ -10762,9 +10773,9 @@
           "layer": "",
           "name": "FishBone",
           "persistentUuid": "f5d2c002-a634-49b3-92f4-eafdd21ec1ba",
-          "width": 85,
-          "x": 1157,
-          "y": 646,
+          "width": 69,
+          "x": 1167,
+          "y": 538,
           "zOrder": 29,
           "numberProperties": [],
           "stringProperties": [],
@@ -10779,41 +10790,9 @@
           "name": "Eel",
           "persistentUuid": "0d33d09c-b2a9-411d-9e68-e570d23d7b7e",
           "width": 58,
-          "x": 24,
-          "y": 654,
+          "x": 20,
+          "y": 357,
           "zOrder": 26,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 5,
-          "customSize": true,
-          "depth": 3,
-          "height": 76,
-          "layer": "",
-          "name": "Turtle",
-          "persistentUuid": "601fc823-3272-4e88-b508-d16849258725",
-          "width": 76,
-          "x": 1162,
-          "y": 533,
-          "zOrder": 30,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 89,
-          "layer": "",
-          "name": "OldBoot",
-          "persistentUuid": "ff0c1878-6e4c-480a-9864-0ce2802501ea",
-          "width": 85,
-          "x": 591,
-          "y": 614,
-          "zOrder": 28,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -10859,25 +10838,9 @@
           "name": "fr2",
           "persistentUuid": "9b1f6b1e-157b-44b8-9c03-6e41e04ed953",
           "width": 110,
-          "x": 631,
-          "y": 231,
+          "x": 624,
+          "y": 233,
           "zOrder": 22,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 170,
-          "layer": "",
-          "name": "string",
-          "persistentUuid": "68231db0-5499-42a2-9aad-c16f681c7db8",
-          "width": 67,
-          "x": 1444,
-          "y": -113,
-          "zOrder": 23,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -10891,8 +10854,8 @@
           "name": "hook",
           "persistentUuid": "14d10c35-583d-4546-82d0-fd3ae3221817",
           "width": 92,
-          "x": 647,
-          "y": 189,
+          "x": 640,
+          "y": 191,
           "zOrder": 24,
           "numberProperties": [],
           "stringProperties": [],
@@ -10907,9 +10870,57 @@
           "name": "YellowJellyButton",
           "persistentUuid": "2dc0d217-bd4a-4e9c-b5a4-902867f70d40",
           "width": 206,
-          "x": 91,
-          "y": -90,
+          "x": 71,
+          "y": 29,
           "zOrder": 32,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 37,
+          "customSize": true,
+          "depth": 1,
+          "height": 66,
+          "layer": "Collision",
+          "name": "Clownfish",
+          "persistentUuid": "4b36665b-c119-4d09-98bd-00e3a6f4fe6f",
+          "width": 64,
+          "x": 17,
+          "y": 348,
+          "zOrder": 35,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 71,
+          "layer": "Collision",
+          "name": "BrownTrout",
+          "persistentUuid": "1b09b1e2-71c0-4b07-913c-e4193c69c3e7",
+          "width": 83,
+          "x": 1155,
+          "y": 444,
+          "zOrder": 36,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 91,
+          "layer": "Collision",
+          "name": "SunkenChest",
+          "persistentUuid": "1b7cfb7d-abd8-4cf9-9cb3-57e0792dbcc4",
+          "width": 98,
+          "x": 657,
+          "y": 637,
+          "zOrder": 37,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -10920,11 +10931,26 @@
           "height": 0,
           "layer": "",
           "name": "NewText",
-          "persistentUuid": "0d8d0b87-0f21-4b1c-8984-c6f92f1ee8a6",
+          "persistentUuid": "1065f697-9087-402f-b79b-02dcb0162d67",
           "width": 0,
-          "x": 819,
-          "y": 93,
+          "x": 430,
+          "y": 14,
           "zOrder": 33,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Collision",
+          "name": "NewText2",
+          "persistentUuid": "fba4c4ff-69ed-49ff-812a-b75d7d8ad89a",
+          "width": 0,
+          "x": 948,
+          "y": 11,
+          "zOrder": 38,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -11174,99 +11200,6 @@
               ]
             }
           ]
-        },
-        {
-          "assetStoreId": "98213fe7f1e2289ef501a2e0a96ed2292535e720bfa616da42cf780d99a3c6d0",
-          "name": "BlueDotBar",
-          "type": "PanelSpriteContinuousBar::PanelSpriteContinuousBar",
-          "variables": [
-            {
-              "folded": true,
-              "name": "value",
-              "type": "number",
-              "value": 0
-            }
-          ],
-          "effects": [],
-          "behaviors": [],
-          "content": {
-            "BarTopPadding": 3,
-            "BarLeftPadding": 4,
-            "BarRightPadding": 4,
-            "BarBottomPadding": 4,
-            "EasingDuration": 0,
-            "PreviousHighValueDuration": 0,
-            "ShowLabel": false,
-            "InitialValue": 0,
-            "MaxValue": 3
-          },
-          "childrenContent": {
-            "Background": {
-              "bottomMargin": 4,
-              "height": 26,
-              "leftMargin": 2,
-              "rightMargin": 2,
-              "texture": "Dot Bar Blue Border.png",
-              "tiled": false,
-              "topMargin": 3,
-              "width": 118
-            },
-            "Buffer": {
-              "bottomMargin": 0,
-              "height": 19,
-              "leftMargin": 0,
-              "rightMargin": 0,
-              "texture": "Dot Bar Blue Fill Bar.png",
-              "tiled": true,
-              "topMargin": 0,
-              "width": 21
-            },
-            "FillBar": {
-              "bottomMargin": 0,
-              "height": 19,
-              "leftMargin": 0,
-              "rightMargin": 0,
-              "texture": "Dot Bar Blue Fill Bar.png",
-              "tiled": true,
-              "topMargin": 0,
-              "width": 21
-            },
-            "Label": {
-              "bold": false,
-              "italic": false,
-              "smoothed": true,
-              "underlined": false,
-              "string": "2 / 3",
-              "font": "",
-              "textAlignment": "",
-              "characterSize": 20,
-              "color": {
-                "b": 0,
-                "g": 0,
-                "r": 0
-              },
-              "content": {
-                "bold": false,
-                "isOutlineEnabled": false,
-                "isShadowEnabled": false,
-                "italic": false,
-                "outlineColor": "255;255;255",
-                "outlineThickness": 2,
-                "shadowAngle": 90,
-                "shadowBlurRadius": 2,
-                "shadowColor": "0;0;0",
-                "shadowDistance": 4,
-                "shadowOpacity": 127,
-                "smoothed": true,
-                "underlined": false,
-                "text": "2 / 3",
-                "font": "",
-                "textAlignment": "",
-                "characterSize": 20,
-                "color": "0;0;0"
-              }
-            }
-          }
         },
         {
           "adaptCollisionMaskAutomatically": false,
@@ -11576,7 +11509,31 @@
           "updateIfNotVisible": false,
           "variables": [],
           "effects": [],
-          "behaviors": [],
+          "behaviors": [
+            {
+              "name": "Physics2",
+              "type": "Physics2::Physics2Behavior",
+              "bodyType": "Dynamic",
+              "bullet": false,
+              "fixedRotation": false,
+              "canSleep": true,
+              "shape": "Box",
+              "shapeDimensionA": 0,
+              "shapeDimensionB": 0,
+              "shapeOffsetX": 0,
+              "shapeOffsetY": 0,
+              "polygonOrigin": "Center",
+              "vertices": [],
+              "density": 1,
+              "friction": 0.3,
+              "restitution": 0.1,
+              "linearDamping": 0.1,
+              "angularDamping": 0.1,
+              "gravityScale": 0,
+              "layers": 1,
+              "masks": 1
+            }
+          ],
           "animations": [
             {
               "name": "No Shadow",
@@ -11790,253 +11747,6 @@
                           {
                             "x": 26,
                             "y": 14.5
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "adaptCollisionMaskAutomatically": true,
-          "assetStoreId": "8b61c588b9c69d948e75db400c3fa97e9b4d250519bffe46967ddc13481fd731",
-          "name": "Turtle",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [
-            {
-              "folded": true,
-              "name": "CantFlip",
-              "type": "number",
-              "value": 0
-            }
-          ],
-          "effects": [],
-          "behaviors": [
-            {
-              "name": "Physics2",
-              "type": "Physics2::Physics2Behavior",
-              "bodyType": "Dynamic",
-              "bullet": false,
-              "fixedRotation": false,
-              "canSleep": true,
-              "shape": "Box",
-              "shapeDimensionA": 0,
-              "shapeDimensionB": 0,
-              "shapeOffsetX": 0,
-              "shapeOffsetY": 0,
-              "polygonOrigin": "Center",
-              "vertices": [],
-              "density": 1,
-              "friction": 0.3,
-              "restitution": 0.1,
-              "linearDamping": 0.1,
-              "angularDamping": 0.1,
-              "gravityScale": 0,
-              "layers": 1,
-              "masks": 1
-            }
-          ],
-          "animations": [
-            {
-              "name": "No Shadow",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": true,
-                  "timeBetweenFrames": 0.025,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Turtle_No Shadow.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 4,
-                            "y": 3
-                          },
-                          {
-                            "x": 29,
-                            "y": 3
-                          },
-                          {
-                            "x": 29,
-                            "y": 29
-                          },
-                          {
-                            "x": 4,
-                            "y": 29
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "Shadow",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": true,
-                  "timeBetweenFrames": 0.025,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Turtle_Shadow.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 4,
-                            "y": 3
-                          },
-                          {
-                            "x": 29,
-                            "y": 3
-                          },
-                          {
-                            "x": 29,
-                            "y": 29
-                          },
-                          {
-                            "x": 4,
-                            "y": 29
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "adaptCollisionMaskAutomatically": true,
-          "assetStoreId": "cee6550f819e604e29576945268a948995e139e84f9b583c433a9b21f1fa1d02",
-          "name": "OldBoot",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "No Shadow",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": true,
-                  "timeBetweenFrames": 0.025,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Old Boot_No Shadow.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 3,
-                            "y": 4
-                          },
-                          {
-                            "x": 32,
-                            "y": 4
-                          },
-                          {
-                            "x": 32,
-                            "y": 28
-                          },
-                          {
-                            "x": 3,
-                            "y": 28
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "Shadow",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": true,
-                  "timeBetweenFrames": 0.025,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Old Boot_Shadow.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 3,
-                            "y": 4
-                          },
-                          {
-                            "x": 32,
-                            "y": 4
-                          },
-                          {
-                            "x": 32,
-                            "y": 28
-                          },
-                          {
-                            "x": 3,
-                            "y": 28
                           }
                         ]
                       ]
@@ -12778,7 +12488,7 @@
           "variables": [],
           "effects": [],
           "behaviors": [],
-          "string": "Press the Up and Down arrows to move the hook\nBring the fish out of the water to catch them",
+          "string": "Catch the fish before they reach the other side!",
           "font": "",
           "textAlignment": "left",
           "characterSize": 20,
@@ -12801,7 +12511,7 @@
             "shadowOpacity": 127,
             "smoothed": true,
             "underlined": false,
-            "text": "Press the Up and Down arrows to move the hook\nBring the fish out of the water to catch them",
+            "text": "Catch the fish before they reach the other side!",
             "font": "",
             "textAlignment": "left",
             "characterSize": 20,
@@ -13075,7 +12785,7 @@
           ]
         },
         {
-          "adaptCollisionMaskAutomatically": true,
+          "adaptCollisionMaskAutomatically": false,
           "assetStoreId": "",
           "name": "hook",
           "type": "Sprite",
@@ -13111,8 +12821,8 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 210,
-                            "y": 240
+                            "x": 7,
+                            "y": 242
                           },
                           {
                             "x": 280,
@@ -13123,8 +12833,8 @@
                             "y": 310
                           },
                           {
-                            "x": 210,
-                            "y": 310
+                            "x": 4,
+                            "y": 313
                           }
                         ]
                       ]
@@ -13143,7 +12853,31 @@
           "updateIfNotVisible": false,
           "variables": [],
           "effects": [],
-          "behaviors": [],
+          "behaviors": [
+            {
+              "name": "Physics2",
+              "type": "Physics2::Physics2Behavior",
+              "bodyType": "Dynamic",
+              "bullet": false,
+              "fixedRotation": false,
+              "canSleep": true,
+              "shape": "Box",
+              "shapeDimensionA": 0,
+              "shapeDimensionB": 0,
+              "shapeOffsetX": 0,
+              "shapeOffsetY": 0,
+              "polygonOrigin": "Center",
+              "vertices": [],
+              "density": 1,
+              "friction": 0.3,
+              "restitution": 0.1,
+              "linearDamping": 0.1,
+              "angularDamping": 0.1,
+              "gravityScale": 0,
+              "layers": 1,
+              "masks": 1
+            }
+          ],
           "animations": [
             {
               "name": "No Shadow",
@@ -13251,7 +12985,31 @@
           "updateIfNotVisible": false,
           "variables": [],
           "effects": [],
-          "behaviors": [],
+          "behaviors": [
+            {
+              "name": "Physics2",
+              "type": "Physics2::Physics2Behavior",
+              "bodyType": "Dynamic",
+              "bullet": false,
+              "fixedRotation": false,
+              "canSleep": true,
+              "shape": "Box",
+              "shapeDimensionA": 0,
+              "shapeDimensionB": 0,
+              "shapeOffsetX": 0,
+              "shapeOffsetY": 0,
+              "polygonOrigin": "Center",
+              "vertices": [],
+              "density": 1,
+              "friction": 0.3,
+              "restitution": 0.1,
+              "linearDamping": 0.1,
+              "angularDamping": 0.1,
+              "gravityScale": 0,
+              "layers": 1,
+              "masks": 1
+            }
+          ],
           "animations": [
             {
               "name": "No Shadow",
@@ -13352,114 +13110,6 @@
           ]
         },
         {
-          "adaptCollisionMaskAutomatically": true,
-          "assetStoreId": "f8851a3865a8330eb06f44916afaeadca94fbd73cae6bb7eedb01baa155a5b33",
-          "name": "Jellyfish",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "No Shadow",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": true,
-                  "timeBetweenFrames": 0.025,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Jellyfish_No Shadow.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 4,
-                            "y": 3
-                          },
-                          {
-                            "x": 28,
-                            "y": 3
-                          },
-                          {
-                            "x": 28,
-                            "y": 29
-                          },
-                          {
-                            "x": 4,
-                            "y": 29
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "Shadow",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": true,
-                  "timeBetweenFrames": 0.025,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Jellyfish_Shadow.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 4,
-                            "y": 3
-                          },
-                          {
-                            "x": 28,
-                            "y": 3
-                          },
-                          {
-                            "x": 28,
-                            "y": 29
-                          },
-                          {
-                            "x": 4,
-                            "y": 29
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "assetStoreId": "055eaaaceaa6fa09820aff95e0291764fbd98d84a9c2fb8cb3c4e059010a477b",
           "name": "YellowJellyButton",
           "type": "PanelSpriteButton::PanelSpriteButton",
@@ -13540,6 +13190,155 @@
               "width": 256
             }
           }
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "07cef9250aa4060cda2053458875b20c51c26bbd596d39f9f380b37bced9b8b2",
+          "name": "SunkenChest",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "No Shadow",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Sunken Chest_No Shadow.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 3,
+                            "y": 4
+                          },
+                          {
+                            "x": 29,
+                            "y": 4
+                          },
+                          {
+                            "x": 29,
+                            "y": 29
+                          },
+                          {
+                            "x": 3,
+                            "y": 29
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Shadow",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Sunken Chest_Shadow.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 3,
+                            "y": 4
+                          },
+                          {
+                            "x": 29,
+                            "y": 4
+                          },
+                          {
+                            "x": 29,
+                            "y": 29
+                          },
+                          {
+                            "x": 3,
+                            "y": 29
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "NewText2",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "Press Up or Down to move the hook\nBring the fish out of water to catch",
+          "font": "",
+          "textAlignment": "left",
+          "characterSize": 20,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "Press Up or Down to move the hook\nBring the fish out of water to catch",
+            "font": "",
+            "textAlignment": "left",
+            "characterSize": 20,
+            "color": "0;0;0"
+          }
         }
       ],
       "objectsFolderStructure": {
@@ -13549,19 +13348,16 @@
             "folderName": "fish3",
             "children": [
               {
-                "objectName": "Turtle"
-              },
-              {
-                "objectName": "TropicalFish"
-              },
-              {
-                "objectName": "Jellyfish"
+                "objectName": "SunkenChest"
               }
             ]
           },
           {
             "folderName": "fish2",
             "children": [
+              {
+                "objectName": "TropicalFish"
+              },
               {
                 "objectName": "Eel"
               },
@@ -13580,9 +13376,6 @@
                 "objectName": "BrownTrout"
               },
               {
-                "objectName": "OldBoot"
-              },
-              {
                 "objectName": "FishBone"
               }
             ]
@@ -13592,9 +13385,6 @@
             "children": [
               {
                 "objectName": "YellowJellyButton"
-              },
-              {
-                "objectName": "BlueDotBar"
               }
             ]
           },
@@ -13629,6 +13419,9 @@
               },
               {
                 "objectName": "NewText"
+              },
+              {
+                "objectName": "NewText2"
               },
               {
                 "objectName": "Dock1"
@@ -13668,7 +13461,7 @@
                 "value": "OpacityCapability::OpacityBehavior::SetValue"
               },
               "parameters": [
-                "TropicalFish",
+                "Clownfish",
                 "Opacity",
                 "=",
                 "75"
@@ -13679,7 +13472,7 @@
                 "value": "OpacityCapability::OpacityBehavior::SetValue"
               },
               "parameters": [
-                "Octopus",
+                "BrownTrout",
                 "Opacity",
                 "=",
                 "75"
@@ -13701,6 +13494,28 @@
                 "value": "OpacityCapability::OpacityBehavior::SetValue"
               },
               "parameters": [
+                "Octopus",
+                "Opacity",
+                "=",
+                "75"
+              ]
+            },
+            {
+              "type": {
+                "value": "OpacityCapability::OpacityBehavior::SetValue"
+              },
+              "parameters": [
+                "TropicalFish",
+                "Opacity",
+                "=",
+                "75"
+              ]
+            },
+            {
+              "type": {
+                "value": "OpacityCapability::OpacityBehavior::SetValue"
+              },
+              "parameters": [
                 "Eel",
                 "Opacity",
                 "=",
@@ -13712,18 +13527,7 @@
                 "value": "OpacityCapability::OpacityBehavior::SetValue"
               },
               "parameters": [
-                "OldBoot",
-                "Opacity",
-                "=",
-                "75"
-              ]
-            },
-            {
-              "type": {
-                "value": "OpacityCapability::OpacityBehavior::SetValue"
-              },
-              "parameters": [
-                "Turtle",
+                "SunkenChest",
                 "Opacity",
                 "=",
                 "75"
@@ -13738,50 +13542,6 @@
                 "Opacity",
                 "=",
                 "0"
-              ]
-            },
-            {
-              "type": {
-                "value": "Physics2::LinearVelocityX"
-              },
-              "parameters": [
-                "Turtle",
-                "Physics2",
-                "=",
-                "-250"
-              ]
-            },
-            {
-              "type": {
-                "value": "Physics2::LinearVelocityX"
-              },
-              "parameters": [
-                "Eel",
-                "Physics2",
-                "=",
-                "350"
-              ]
-            },
-            {
-              "type": {
-                "value": "Physics2::LinearVelocityX"
-              },
-              "parameters": [
-                "TropicalFish",
-                "Physics2",
-                "=",
-                "-300"
-              ]
-            },
-            {
-              "type": {
-                "value": "Physics2::LinearVelocityX"
-              },
-              "parameters": [
-                "Octopus",
-                "Physics2",
-                "=",
-                "-200"
               ]
             },
             {
@@ -13805,43 +13565,13 @@
             },
             {
               "type": {
-                "value": "ActivateBehavior"
-              },
-              "parameters": [
-                "hook",
-                "TopDownMovement",
-                "yes"
-              ]
-            },
-            {
-              "type": {
-                "value": "SeparateFromObjects"
-              },
-              "parameters": [
-                "hook",
-                "CollisionDetect",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "ChangePlan"
-              },
-              "parameters": [
-                "hook",
-                "=",
-                "Player.Y()"
-              ]
-            },
-            {
-              "type": {
-                "value": "CentreCamera"
+                "value": "PlaySound"
               },
               "parameters": [
                 "",
-                "hook",
-                "",
-                "",
+                "oceansfx.mp3",
+                "yes",
+                "3",
                 ""
               ]
             }
@@ -13998,6 +13728,60 @@
           "conditions": [
             {
               "type": {
+                "value": "KeyPressed"
+              },
+              "parameters": [
+                "",
+                "Down"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "AddForceXY"
+              },
+              "parameters": [
+                "hook",
+                "0",
+                "200",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "KeyPressed"
+              },
+              "parameters": [
+                "",
+                "Up"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "AddForceXY"
+              },
+              "parameters": [
+                "hook",
+                "0",
+                "-200",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
                 "value": "PosY"
               },
               "parameters": [
@@ -14026,40 +13810,12 @@
           "conditions": [
             {
               "type": {
-                "value": "PosX"
+                "value": "VarGlobal"
               },
               "parameters": [
-                "Turtle",
-                ">",
-                "1280"
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "Physics2::LinearVelocityX"
-              },
-              "parameters": [
-                "Turtle",
-                "Physics2",
+                "Rod",
                 "=",
-                "-300"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "PosX"
-              },
-              "parameters": [
-                "Turtle",
-                "<",
-                "0"
+                "1"
               ]
             }
           ],
@@ -14069,192 +13825,21 @@
                 "value": "Physics2::LinearVelocityX"
               },
               "parameters": [
-                "Turtle",
-                "Physics2",
-                "=",
-                "300"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "PosX"
-              },
-              "parameters": [
-                "Eel",
-                ">",
-                "1280"
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "Physics2::LinearVelocityX"
-              },
-              "parameters": [
-                "Eel",
-                "Physics2",
-                "=",
-                "-350"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "PosX"
-              },
-              "parameters": [
-                "Eel",
-                "<",
-                "0"
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "Physics2::LinearVelocityX"
-              },
-              "parameters": [
-                "Eel",
-                "Physics2",
-                "=",
-                "350"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "PosX"
-              },
-              "parameters": [
-                "TropicalFish",
-                ">",
-                "1280"
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "Physics2::LinearVelocityX"
-              },
-              "parameters": [
-                "TropicalFish",
-                "Physics2",
-                "=",
-                "-300"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "PosX"
-              },
-              "parameters": [
-                "TropicalFish",
-                "<",
-                "0"
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "Physics2::LinearVelocityX"
-              },
-              "parameters": [
-                "TropicalFish",
-                "Physics2",
-                "=",
-                "300"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "PosX"
-              },
-              "parameters": [
-                "Octopus",
-                ">",
-                "1280"
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "Physics2::LinearVelocityX"
-              },
-              "parameters": [
-                "Octopus",
-                "Physics2",
-                "=",
-                "-200"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "PosX"
-              },
-              "parameters": [
-                "Octopus",
-                "<",
-                "0"
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "Physics2::LinearVelocityX"
-              },
-              "parameters": [
-                "Octopus",
+                "Clownfish",
                 "Physics2",
                 "=",
                 "200"
               ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
+            },
             {
               "type": {
-                "value": "KeyPressed"
+                "value": "Physics2::LinearVelocityX"
               },
               "parameters": [
-                "",
-                "Down"
+                "BrownTrout",
+                "Physics2",
+                "=",
+                "-200"
               ]
             },
             {
@@ -14271,34 +13856,49 @@
           "actions": [
             {
               "type": {
-                "value": "AddForceXY"
+                "value": "Physics2::LinearVelocityX"
               },
               "parameters": [
-                "hook",
-                "0",
-                "125",
+                "FishBone",
+                "Physics2",
+                "=",
+                "-100"
+              ]
+            },
+            {
+              "type": {
+                "value": "Delete"
+              },
+              "parameters": [
+                "Eel",
                 ""
               ]
             },
             {
               "type": {
-                "value": "MettreY"
+                "value": "Delete"
               },
               "parameters": [
-                "string",
-                "=",
-                "227\n"
+                "TropicalFish",
+                ""
               ]
             },
             {
               "type": {
-                "value": "ResizableCapability::ResizableBehavior::SetHeight"
+                "value": "Delete"
               },
               "parameters": [
-                "string",
-                "Resizable",
-                "+",
-                "5"
+                "Octopus",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Delete"
+              },
+              "parameters": [
+                "SunkenChest",
+                ""
               ]
             }
           ]
@@ -14308,11 +13908,12 @@
           "conditions": [
             {
               "type": {
-                "value": "KeyPressed"
+                "value": "VarGlobal"
               },
               "parameters": [
-                "",
-                "Up"
+                "Rod",
+                "=",
+                "2"
               ]
             },
             {
@@ -14329,34 +13930,602 @@
           "actions": [
             {
               "type": {
-                "value": "AddForceXY"
+                "value": "Physics2::LinearVelocityX"
               },
               "parameters": [
-                "hook",
-                "0",
-                "-125",
+                "Eel",
+                "Physics2",
+                "=",
+                "250"
+              ]
+            },
+            {
+              "type": {
+                "value": "Physics2::LinearVelocityX"
+              },
+              "parameters": [
+                "TropicalFish",
+                "Physics2",
+                "=",
+                "-200"
+              ]
+            },
+            {
+              "type": {
+                "value": "Physics2::LinearVelocityX"
+              },
+              "parameters": [
+                "Octopus",
+                "Physics2",
+                "=",
+                "-100"
+              ]
+            },
+            {
+              "type": {
+                "value": "Delete"
+              },
+              "parameters": [
+                "Clownfish",
                 ""
               ]
             },
             {
               "type": {
-                "value": "MettreY"
+                "value": "Delete"
               },
               "parameters": [
-                "string",
-                "=",
-                "227\n"
+                "BrownTrout",
+                ""
               ]
             },
             {
               "type": {
-                "value": "ResizableCapability::ResizableBehavior::SetHeight"
+                "value": "Delete"
               },
               "parameters": [
-                "string",
-                "Resizable",
-                "-",
-                "5"
+                "FishBone",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Delete"
+              },
+              "parameters": [
+                "SunkenChest",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "VarGlobal"
+              },
+              "parameters": [
+                "Rod",
+                "=",
+                "3"
+              ]
+            }
+          ],
+          "actions": []
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "hook",
+                "Clownfish",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "MettreXY"
+              },
+              "parameters": [
+                "Clownfish",
+                "=",
+                "hook.X()",
+                "=",
+                "hook.Y()"
+              ]
+            },
+            {
+              "type": {
+                "value": "ActivateBehavior"
+              },
+              "parameters": [
+                "Clownfish",
+                "Physics2",
+                ""
+              ]
+            }
+          ],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "PosY"
+                  },
+                  "parameters": [
+                    "Clownfish",
+                    "<",
+                    "200"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "MettreXY"
+                  },
+                  "parameters": [
+                    "Clownfish",
+                    "=",
+                    "boat.X()+20",
+                    "=",
+                    "boat.Y()+40"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "OpacityCapability::OpacityBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "Clownfish",
+                    "Opacity",
+                    "=",
+                    "255"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ModVarGlobal"
+                  },
+                  "parameters": [
+                    "Fishes",
+                    "+",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ModVarGlobal"
+                  },
+                  "parameters": [
+                    "Currency",
+                    "+",
+                    "10"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "hook",
+                "BrownTrout",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "MettreXY"
+              },
+              "parameters": [
+                "BrownTrout",
+                "=",
+                "hook.X()",
+                "=",
+                "hook.Y()"
+              ]
+            },
+            {
+              "type": {
+                "value": "ActivateBehavior"
+              },
+              "parameters": [
+                "BrownTrout",
+                "Physics2",
+                ""
+              ]
+            }
+          ],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "PosY"
+                  },
+                  "parameters": [
+                    "BrownTrout",
+                    "<",
+                    "200"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "MettreXY"
+                  },
+                  "parameters": [
+                    "BrownTrout",
+                    "=",
+                    "boat.X()+50",
+                    "=",
+                    "boat.Y()+25"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "OpacityCapability::OpacityBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "BrownTrout",
+                    "Opacity",
+                    "=",
+                    "255"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ModVarGlobal"
+                  },
+                  "parameters": [
+                    "Fishes",
+                    "+",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ModVarGlobal"
+                  },
+                  "parameters": [
+                    "Currency",
+                    "+",
+                    "10"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "hook",
+                "FishBone",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "MettreXY"
+              },
+              "parameters": [
+                "FishBone",
+                "=",
+                "hook.X()",
+                "=",
+                "hook.Y()"
+              ]
+            },
+            {
+              "type": {
+                "value": "ActivateBehavior"
+              },
+              "parameters": [
+                "FishBone",
+                "Physics2",
+                ""
+              ]
+            }
+          ],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "PosY"
+                  },
+                  "parameters": [
+                    "FishBone",
+                    "<",
+                    "200"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "MettreXY"
+                  },
+                  "parameters": [
+                    "FishBone",
+                    "=",
+                    "boat.X()+100",
+                    "=",
+                    "boat.Y()+45"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "OpacityCapability::OpacityBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "FishBone",
+                    "Opacity",
+                    "=",
+                    "255"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ModVarGlobal"
+                  },
+                  "parameters": [
+                    "Fishes",
+                    "+",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ModVarGlobal"
+                  },
+                  "parameters": [
+                    "Currency",
+                    "+",
+                    "10"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "hook",
+                "TropicalFish",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "MettreXY"
+              },
+              "parameters": [
+                "TropicalFish",
+                "=",
+                "hook.X()",
+                "=",
+                "hook.Y()"
+              ]
+            },
+            {
+              "type": {
+                "value": "ActivateBehavior"
+              },
+              "parameters": [
+                "TropicalFish",
+                "Physics2",
+                ""
+              ]
+            }
+          ],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "PosY"
+                  },
+                  "parameters": [
+                    "TropicalFish",
+                    "<",
+                    "200"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "MettreXY"
+                  },
+                  "parameters": [
+                    "TropicalFish",
+                    "=",
+                    "boat.X()+20",
+                    "=",
+                    "boat.Y()+40"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "OpacityCapability::OpacityBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "TropicalFish",
+                    "Opacity",
+                    "=",
+                    "255"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ModVarGlobal"
+                  },
+                  "parameters": [
+                    "Fishes",
+                    "+",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ModVarGlobal"
+                  },
+                  "parameters": [
+                    "Currency",
+                    "+",
+                    "50"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "hook",
+                "Eel",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "MettreXY"
+              },
+              "parameters": [
+                "Eel",
+                "=",
+                "hook.X()",
+                "=",
+                "hook.Y()"
+              ]
+            },
+            {
+              "type": {
+                "value": "ActivateBehavior"
+              },
+              "parameters": [
+                "Eel",
+                "Physics2",
+                ""
+              ]
+            }
+          ],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "PosY"
+                  },
+                  "parameters": [
+                    "Eel",
+                    "<",
+                    "220"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "MettreXY"
+                  },
+                  "parameters": [
+                    "Eel",
+                    "=",
+                    "boat.X()+20",
+                    "=",
+                    "boat.Y()+40"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "OpacityCapability::OpacityBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "Eel",
+                    "Opacity",
+                    "=",
+                    "255"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ModVarGlobal"
+                  },
+                  "parameters": [
+                    "Fishes",
+                    "+",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ModVarGlobal"
+                  },
+                  "parameters": [
+                    "Currency",
+                    "+",
+                    "50"
+                  ]
+                }
               ]
             }
           ]
@@ -14424,7 +14593,7 @@
                   "parameters": [
                     "Octopus",
                     "=",
-                    "boat.X()+20",
+                    "boat.X()+70",
                     "=",
                     "boat.Y()+40"
                   ]
@@ -14442,12 +14611,11 @@
                 },
                 {
                   "type": {
-                    "value": "PanelSpriteContinuousBar::PanelSpriteContinuousBar::SetValue"
+                    "value": "ModVarGlobal"
                   },
                   "parameters": [
-                    "BlueDotBar",
+                    "Fishes",
                     "+",
-                    "1",
                     "1"
                   ]
                 },
@@ -14456,9 +14624,9 @@
                     "value": "ModVarGlobal"
                   },
                   "parameters": [
-                    "Fishes",
+                    "Currency",
                     "+",
-                    "1"
+                    "50"
                   ]
                 }
               ]
@@ -14474,7 +14642,7 @@
               },
               "parameters": [
                 "hook",
-                "TropicalFish",
+                "SunkenChest",
                 "",
                 "",
                 ""
@@ -14487,21 +14655,11 @@
                 "value": "MettreXY"
               },
               "parameters": [
-                "TropicalFish",
+                "SunkenChest",
                 "=",
                 "hook.X()",
                 "=",
                 "hook.Y()"
-              ]
-            },
-            {
-              "type": {
-                "value": "ActivateBehavior"
-              },
-              "parameters": [
-                "TropicalFish",
-                "Physics2",
-                ""
               ]
             }
           ],
@@ -14514,7 +14672,7 @@
                     "value": "PosY"
                   },
                   "parameters": [
-                    "TropicalFish",
+                    "SunkenChest",
                     "<",
                     "200"
                   ]
@@ -14526,11 +14684,11 @@
                     "value": "MettreXY"
                   },
                   "parameters": [
-                    "TropicalFish",
+                    "SunkenChest",
                     "=",
-                    "boat.X()+50",
+                    "boat.X()+20",
                     "=",
-                    "boat.Y()+25"
+                    "boat.Y()+40"
                   ]
                 },
                 {
@@ -14538,7 +14696,7 @@
                     "value": "OpacityCapability::OpacityBehavior::SetValue"
                   },
                   "parameters": [
-                    "TropicalFish",
+                    "SunkenChest",
                     "Opacity",
                     "=",
                     "255"
@@ -14546,23 +14704,12 @@
                 },
                 {
                   "type": {
-                    "value": "PanelSpriteContinuousBar::PanelSpriteContinuousBar::SetValue"
-                  },
-                  "parameters": [
-                    "BlueDotBar",
-                    "+",
-                    "1",
-                    "1"
-                  ]
-                },
-                {
-                  "type": {
                     "value": "ModVarGlobal"
                   },
                   "parameters": [
-                    "Fishes",
+                    "Currency",
                     "+",
-                    "1"
+                    "250"
                   ]
                 }
               ]
@@ -14571,107 +14718,8 @@
         },
         {
           "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "CollisionNP"
-              },
-              "parameters": [
-                "hook",
-                "Turtle",
-                "",
-                "",
-                ""
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "MettreXY"
-              },
-              "parameters": [
-                "Turtle",
-                "=",
-                "hook.X()",
-                "=",
-                "hook.Y()"
-              ]
-            },
-            {
-              "type": {
-                "value": "ActivateBehavior"
-              },
-              "parameters": [
-                "Turtle",
-                "Physics2",
-                ""
-              ]
-            }
-          ],
-          "events": [
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "PosY"
-                  },
-                  "parameters": [
-                    "Turtle",
-                    "<",
-                    "200"
-                  ]
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "MettreXY"
-                  },
-                  "parameters": [
-                    "Turtle",
-                    "=",
-                    "boat.X()+100",
-                    "=",
-                    "boat.Y()+25"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "OpacityCapability::OpacityBehavior::SetValue"
-                  },
-                  "parameters": [
-                    "Turtle",
-                    "Opacity",
-                    "=",
-                    "255"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "PanelSpriteContinuousBar::PanelSpriteContinuousBar::SetValue"
-                  },
-                  "parameters": [
-                    "BlueDotBar",
-                    "+",
-                    "1",
-                    "1"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "ModVarGlobal"
-                  },
-                  "parameters": [
-                    "Fishes",
-                    "+",
-                    "1"
-                  ]
-                }
-              ]
-            }
-          ]
+          "conditions": [],
+          "actions": []
         }
       ],
       "layers": [
@@ -14701,6 +14749,39 @@
               "width": 0
             }
           ],
+          "effects": [
+            {
+              "effectType": "Scene3D::HemisphereLight",
+              "name": "3D Light",
+              "doubleParameters": {
+                "elevation": 45,
+                "intensity": 1,
+                "rotation": 0
+              },
+              "stringParameters": {
+                "groundColor": "64;64;64",
+                "skyColor": "255;255;255",
+                "top": "Y-"
+              },
+              "booleanParameters": {}
+            }
+          ]
+        },
+        {
+          "ambientLightColorB": 200,
+          "ambientLightColorG": 200,
+          "ambientLightColorR": 200,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 0.1,
+          "cameraType": "perspective",
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "isLocked": false,
+          "name": "Collision",
+          "renderingType": "",
+          "visibility": true,
+          "cameras": [],
           "effects": [
             {
               "effectType": "Scene3D::HemisphereLight",
