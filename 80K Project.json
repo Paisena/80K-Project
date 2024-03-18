@@ -1136,6 +1136,16 @@
           "identifier": "https://asset-resources.gdevelop.io/public-resources/32x32 Fantasy Icons Pack v2/Icons/Fishing Items/39e77620ea2cbdf3e2ebfcb9feb8b85195e32936ad0b0e93a1f4acfbf168472e_Sunken Chest_Shadow.png",
           "name": "Sunken Chest_Shadow.png"
         }
+      },
+      {
+        "file": "oceansfx.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "oceansfx.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -12994,6 +13004,18 @@
               "parameters": [
                 "Player",
                 "Animation"
+              ]
+            },
+            {
+              "type": {
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "oceansfx.mp3",
+                "yes",
+                "3",
+                ""
               ]
             }
           ]
