@@ -2446,6 +2446,15 @@
           "identifier": "https://asset-resources.gdevelop.io/public-resources/32x32 Fantasy Icons Pack v2/Icons/General Items/85739be64c6e1e9cdf1aa4cebd4ece95d85c8faa2fec2eeee3830dcaae32dda3_Gold Coin Stack_Shadow.png",
           "name": "Gold Coin Stack_Shadow.png"
         }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Rod3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Rod3.png",
+        "smoothed": true,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -2538,6 +2547,12 @@
       "name": "ChestFound",
       "type": "number",
       "value": 0
+    },
+    {
+      "folded": true,
+      "name": "First",
+      "type": "boolean",
+      "value": false
     }
   ],
   "layouts": [
@@ -2561,7 +2576,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.2,
         "snap": false,
-        "zoomFactor": 1.7573245611364392,
+        "zoomFactor": 0.9358233664384482,
         "windowMask": false
       },
       "objectsGroups": [
@@ -11929,6 +11944,118 @@
                   ]
                 }
               ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "GlobalVariableAsBoolean"
+                  },
+                  "parameters": [
+                    "First",
+                    "True"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "MettreXY"
+                  },
+                  "parameters": [
+                    "Merchant",
+                    "=",
+                    "1000000",
+                    "=",
+                    "0"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "VarGlobal"
+                  },
+                  "parameters": [
+                    "Rod",
+                    "=",
+                    "1\n"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                  },
+                  "parameters": [
+                    "FishingRod",
+                    "Animation",
+                    "=",
+                    "\"Rod1\""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "VarGlobal"
+                  },
+                  "parameters": [
+                    "Rod",
+                    "=",
+                    "2"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                  },
+                  "parameters": [
+                    "FishingRod",
+                    "Animation",
+                    "=",
+                    "\"Rod2\""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "VarGlobal"
+                  },
+                  "parameters": [
+                    "Rod",
+                    "=",
+                    "3"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                  },
+                  "parameters": [
+                    "FishingRod",
+                    "Animation",
+                    "=",
+                    "\"Rod3\""
+                  ]
+                }
+              ]
             }
           ]
         },
@@ -12425,6 +12552,16 @@
                   "parameters": [
                     "",
                     "\"Dialogue2\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ModVarGlobal"
+                  },
+                  "parameters": [
+                    "First",
+                    "=",
+                    "1"
                   ]
                 }
               ]
