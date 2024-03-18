@@ -1184,6 +1184,18 @@
       "name": "Fishes",
       "type": "number",
       "value": 45
+    },
+    {
+      "folded": true,
+      "name": "Rod",
+      "type": "number",
+      "value": 1
+    },
+    {
+      "folded": true,
+      "name": "Currency",
+      "type": "number",
+      "value": 0
     }
   ],
   "layouts": [
@@ -1207,7 +1219,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.2,
         "snap": false,
-        "zoomFactor": 2.987451753931913,
+        "zoomFactor": 1.0000000000000144,
         "windowMask": false
       },
       "objectsGroups": [
@@ -1316,8 +1328,8 @@
           "name": "Water1",
           "persistentUuid": "fb607f81-0e83-43a2-94c2-3c67a797f7d3",
           "width": 432,
-          "x": 333,
-          "y": 383,
+          "x": 318,
+          "y": 405,
           "zOrder": -10000,
           "numberProperties": [],
           "stringProperties": [],
@@ -1466,8 +1478,8 @@
           "name": "Grass",
           "persistentUuid": "753fd074-6b60-4410-b871-257718ecbb5a",
           "width": 224,
-          "x": 753,
-          "y": 49,
+          "x": 752,
+          "y": 55,
           "zOrder": -5200,
           "numberProperties": [],
           "stringProperties": [],
@@ -1481,8 +1493,8 @@
           "name": "Water1",
           "persistentUuid": "8f0fb863-d7c1-44e3-a76f-3325dc44a9bd",
           "width": 176,
-          "x": 764,
-          "y": 462,
+          "x": 743,
+          "y": 455,
           "zOrder": 16,
           "numberProperties": [],
           "stringProperties": [],
@@ -1541,8 +1553,8 @@
           "name": "CollisionDetect",
           "persistentUuid": "0166d221-c908-425d-8c2d-85f710145da4",
           "width": 408,
-          "x": 361,
-          "y": 417,
+          "x": 354,
+          "y": 409,
           "zOrder": 2000,
           "numberProperties": [],
           "stringProperties": [],
@@ -3292,7 +3304,7 @@
           "customSize": false,
           "height": 0,
           "layer": "RodShop",
-          "name": "Currency",
+          "name": "CurrencyText",
           "persistentUuid": "5530941c-5c1f-4c8b-a946-4dc02dcacecf",
           "width": 0,
           "x": 912,
@@ -3368,12 +3380,154 @@
           "customSize": false,
           "height": 0,
           "layer": "FishShop",
-          "name": "Currency",
+          "name": "CurrencyText",
           "persistentUuid": "db986270-c824-400c-a987-0e1787e83cc3",
           "width": 0,
           "x": 457,
           "y": 433,
           "zOrder": 2020,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 13,
+          "layer": "",
+          "name": "NPC2",
+          "persistentUuid": "e457bd0e-7578-42f6-b4f1-6222015ddfab",
+          "width": 14,
+          "x": 785,
+          "y": 152,
+          "zOrder": 2021,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "CollisionDetect",
+          "persistentUuid": "02070ea6-d167-498c-a9c6-4f575c780f61",
+          "width": 0,
+          "x": 784,
+          "y": 151,
+          "zOrder": -10001,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 16,
+          "layer": "",
+          "name": "NPC3",
+          "persistentUuid": "ebf03bbb-a5ec-4011-8a42-aa6039d36ed5",
+          "width": 16,
+          "x": 784,
+          "y": 248,
+          "zOrder": 2022,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "CollisionDetect",
+          "persistentUuid": "19143683-8f7a-4377-9e61-62e097c2439d",
+          "width": 0,
+          "x": 784,
+          "y": 248,
+          "zOrder": -10002,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 211,
+          "layer": "Dialogue2",
+          "name": "TextBorder",
+          "persistentUuid": "9fb8c1a9-c454-4add-83a5-2eac6ae07086",
+          "width": 599,
+          "x": 338,
+          "y": 469,
+          "zOrder": 2023,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 80,
+          "layer": "Dialogue2",
+          "name": "Dialogue2",
+          "persistentUuid": "b44990d9-8ed7-4ad3-b4e5-7dbe44bc5772",
+          "width": 560,
+          "x": 362,
+          "y": 490,
+          "zOrder": 2024,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 215,
+          "layer": "Dialogue3",
+          "name": "TextBorder",
+          "persistentUuid": "ef3ce27c-5851-439e-a03d-00b3bc88a12b",
+          "width": 600,
+          "x": 343,
+          "y": 471,
+          "zOrder": 2025,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 80,
+          "layer": "Dialogue3",
+          "name": "Dialogue3",
+          "persistentUuid": "78f98d68-fcea-46d3-999c-7ed2c65e6e68",
+          "width": 564,
+          "x": 362,
+          "y": 491,
+          "zOrder": 2026,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 48,
+          "height": 53,
+          "layer": "Dialogue2",
+          "name": "Next_Button",
+          "persistentUuid": "3c67f110-ea01-41da-b354-8429a7396460",
+          "width": 152,
+          "x": 720,
+          "y": 604,
+          "zOrder": 2027,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -5941,7 +6095,7 @@
         },
         {
           "assetStoreId": "",
-          "name": "Currency",
+          "name": "CurrencyText",
           "type": "BitmapText::BitmapTextObject",
           "variables": [],
           "effects": [],
@@ -6059,6 +6213,264 @@
               "width": 192
             }
           }
+        },
+        {
+          "adaptCollisionMaskAutomatically": false,
+          "assetStoreId": "",
+          "name": "NPC2",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "Down",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.20000000298023224,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\sign.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 7.927276611328125,
+                        "y": 15.236364364624023
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 17
+                          },
+                          {
+                            "x": 15,
+                            "y": 17
+                          },
+                          {
+                            "x": 15,
+                            "y": 20
+                          },
+                          {
+                            "x": 9,
+                            "y": 20
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": false,
+          "assetStoreId": "",
+          "name": "NPC3",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "Down",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.20000000298023224,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\sign.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 7.927276611328125,
+                        "y": 15.236364364624023
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 17
+                          },
+                          {
+                            "x": 15,
+                            "y": 17
+                          },
+                          {
+                            "x": 15,
+                            "y": 20
+                          },
+                          {
+                            "x": 9,
+                            "y": 20
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "Dialogue2",
+          "type": "BitmapText::BitmapTextObject",
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "BitmapText_AutoTyping",
+              "type": "AutoTyping::BitmapText_AutoTyping",
+              "Interval": 0,
+              "CharacterJustAdded": false,
+              "CurrentCharacter": ""
+            }
+          ],
+          "content": {
+            "text": "This text can be replace with other text",
+            "opacity": 255,
+            "scale": 2,
+            "fontSize": 20,
+            "tint": "255;255;255",
+            "bitmapFontResourceName": "8BitOperatorPlus8Regular_Edited.fnt",
+            "textureAtlasResourceName": "8BitOperatorPlus8Regular_Edited.png",
+            "align": "left",
+            "wordWrap": true
+          }
+        },
+        {
+          "assetStoreId": "",
+          "name": "Dialogue3",
+          "type": "BitmapText::BitmapTextObject",
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "BitmapText_AutoTyping",
+              "type": "AutoTyping::BitmapText_AutoTyping",
+              "Interval": 0,
+              "CharacterJustAdded": false,
+              "CurrentCharacter": ""
+            }
+          ],
+          "content": {
+            "text": "This text can be replace with other text",
+            "opacity": 255,
+            "scale": 2,
+            "fontSize": 20,
+            "tint": "255;255;255",
+            "bitmapFontResourceName": "8BitOperatorPlus8Regular_Edited.fnt",
+            "textureAtlasResourceName": "8BitOperatorPlus8Regular_Edited.png",
+            "align": "left",
+            "wordWrap": true
+          }
+        },
+        {
+          "assetStoreId": "90d94b6e3a23c34948e59eaaef4679740f8ab588696d59b21e0c0c2ef106b94d",
+          "name": "Next_Button",
+          "type": "PanelSpriteButton::PanelSpriteButton",
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "content": {
+            "LeftPadding": 8,
+            "RightPadding": 8,
+            "PressedLabelOffsetY": 0,
+            "IdleLabelOffsetY": -8,
+            "BottomPadding": 8,
+            "TopPadding": 8,
+            "MinimalWidth": 300
+          },
+          "childrenContent": {
+            "Hovered": {
+              "bottomMargin": 8,
+              "height": 106,
+              "leftMargin": 8,
+              "rightMargin": 8,
+              "texture": "Border2.png",
+              "tiled": true,
+              "topMargin": 8,
+              "width": 256
+            },
+            "Idle": {
+              "bottomMargin": 8,
+              "height": 106,
+              "leftMargin": 8,
+              "rightMargin": 8,
+              "texture": "Border.png",
+              "tiled": true,
+              "topMargin": 8,
+              "width": 256
+            },
+            "Label": {
+              "bold": false,
+              "italic": false,
+              "smoothed": true,
+              "underlined": false,
+              "string": "Next",
+              "font": "",
+              "textAlignment": "left",
+              "characterSize": 26,
+              "color": {
+                "b": 255,
+                "g": 255,
+                "r": 255
+              },
+              "content": {
+                "bold": false,
+                "isOutlineEnabled": false,
+                "isShadowEnabled": false,
+                "italic": false,
+                "outlineColor": "255;255;255",
+                "outlineThickness": 2,
+                "shadowAngle": 90,
+                "shadowBlurRadius": 2,
+                "shadowColor": "0;0;0",
+                "shadowDistance": 4,
+                "shadowOpacity": 127,
+                "smoothed": true,
+                "underlined": false,
+                "text": "Next",
+                "font": "",
+                "textAlignment": "left",
+                "characterSize": 26,
+                "color": "255;255;255"
+              }
+            },
+            "Pressed": {
+              "bottomMargin": 8,
+              "height": 106,
+              "leftMargin": 8,
+              "rightMargin": 8,
+              "texture": "Border2.png",
+              "tiled": true,
+              "topMargin": 8,
+              "width": 256
+            }
+          }
         }
       ],
       "objectsFolderStructure": {
@@ -6126,6 +6538,12 @@
                 "objectName": "Dialogue"
               },
               {
+                "objectName": "Dialogue2"
+              },
+              {
+                "objectName": "Dialogue3"
+              },
+              {
                 "objectName": "E"
               },
               {
@@ -6133,6 +6551,9 @@
               },
               {
                 "objectName": "YesButton"
+              },
+              {
+                "objectName": "Next_Button"
               },
               {
                 "objectName": "NoButton"
@@ -6150,6 +6571,12 @@
           },
           {
             "objectName": "NPC"
+          },
+          {
+            "objectName": "NPC3"
+          },
+          {
+            "objectName": "NPC2"
           },
           {
             "objectName": "CollisionDetect"
@@ -6191,7 +6618,7 @@
             "objectName": "FishText"
           },
           {
-            "objectName": "Currency"
+            "objectName": "CurrencyText"
           }
         ]
       },
@@ -6735,6 +7162,148 @@
               "conditions": [
                 {
                   "type": {
+                    "value": "BuiltinCommonInstructions::Or"
+                  },
+                  "parameters": [],
+                  "subInstructions": [
+                    {
+                      "type": {
+                        "value": "KeyPressed"
+                      },
+                      "parameters": [
+                        "",
+                        "e"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "SpriteMultitouchJoystick::IsButtonPressed"
+                      },
+                      "parameters": [
+                        "",
+                        "1",
+                        "\"A\"",
+                        ""
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                },
+                {
+                  "type": {
+                    "value": "Distance"
+                  },
+                  "parameters": [
+                    "Player",
+                    "NPC2",
+                    "20",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SpriteMultitouchJoystick::IsButtonPressed"
+                  },
+                  "parameters": [
+                    "",
+                    "1",
+                    "\"A\"",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "KeyPressed"
+                  },
+                  "parameters": [
+                    "",
+                    "e"
+                  ]
+                }
+              ],
+              "actions": []
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Or"
+                  },
+                  "parameters": [],
+                  "subInstructions": [
+                    {
+                      "type": {
+                        "value": "KeyPressed"
+                      },
+                      "parameters": [
+                        "",
+                        "e"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "SpriteMultitouchJoystick::IsButtonPressed"
+                      },
+                      "parameters": [
+                        "",
+                        "1",
+                        "\"A\"",
+                        ""
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                },
+                {
+                  "type": {
+                    "value": "Distance"
+                  },
+                  "parameters": [
+                    "Player",
+                    "NPC2",
+                    "20",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SpriteMultitouchJoystick::IsButtonPressed"
+                  },
+                  "parameters": [
+                    "",
+                    "1",
+                    "\"A\"",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "KeyPressed"
+                  },
+                  "parameters": [
+                    "",
+                    "e"
+                  ]
+                }
+              ],
+              "actions": []
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
                     "value": "LayerVisible"
                   },
                   "parameters": [
@@ -6760,10 +7329,10 @@
                     "value": "TextContainerCapability::TextContainerBehavior::SetValue"
                   },
                   "parameters": [
-                    "Currency",
+                    "CurrencyText",
                     "Text",
                     "=",
-                    "\"Currency:\" + Player.Currency"
+                    "\"Currency:\" + Currency"
                   ]
                 }
               ],
@@ -6807,11 +7376,10 @@
                     },
                     {
                       "type": {
-                        "value": "VarObjet"
+                        "value": "VarGlobal"
                       },
                       "parameters": [
-                        "Player",
-                        "Fish",
+                        "Fishes",
                         ">",
                         "0"
                       ]
@@ -6820,35 +7388,13 @@
                   "actions": [
                     {
                       "type": {
-                        "value": "ModVarObjet"
-                      },
-                      "parameters": [
-                        "Player",
-                        "Currency",
-                        "+",
-                        "50"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "ModVarObjet"
-                      },
-                      "parameters": [
-                        "Player",
-                        "Fish",
-                        "-",
-                        "1"
-                      ]
-                    },
-                    {
-                      "type": {
                         "value": "TextContainerCapability::TextContainerBehavior::SetValue"
                       },
                       "parameters": [
-                        "Currency",
+                        "CurrencyText",
                         "Text",
                         "=",
-                        "\"Currency:\" + Player.Currency"
+                        "\"Currency:\" + Currency"
                       ]
                     },
                     {
@@ -6859,6 +7405,16 @@
                         "Fishes",
                         "-",
                         "1"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "ModVarGlobal"
+                      },
+                      "parameters": [
+                        "Currency",
+                        "+",
+                        "50"
                       ]
                     }
                   ]
@@ -6925,10 +7481,9 @@
                       "conditions": [
                         {
                           "type": {
-                            "value": "VarObjet"
+                            "value": "VarGlobal"
                           },
                           "parameters": [
-                            "Player",
                             "Rod",
                             "=",
                             "1"
@@ -6971,13 +7526,22 @@
                       "conditions": [
                         {
                           "type": {
-                            "value": "VarObjet"
+                            "value": "VarGlobal"
                           },
                           "parameters": [
-                            "Player",
                             "Rod",
                             "=",
                             "1"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "VarGlobal"
+                          },
+                          "parameters": [
+                            "Currency",
+                            ">=",
+                            "150"
                           ]
                         }
                       ],
@@ -6995,10 +7559,20 @@
                         },
                         {
                           "type": {
-                            "value": "ModVarObjet"
+                            "value": "TextContainerCapability::TextContainerBehavior::SetValue"
                           },
                           "parameters": [
-                            "Player",
+                            "CurrencyText",
+                            "Text",
+                            "=",
+                            "\"Currency:\" + Currency"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "ModVarGlobal"
+                          },
+                          "parameters": [
                             "Rod",
                             "=",
                             "2"
@@ -7006,13 +7580,12 @@
                         },
                         {
                           "type": {
-                            "value": "ModVarObjet"
+                            "value": "ModVarGlobal"
                           },
                           "parameters": [
-                            "Player",
                             "Currency",
-                            "-",
-                            "50"
+                            "+",
+                            "-250"
                           ]
                         },
                         {
@@ -7020,10 +7593,10 @@
                             "value": "TextContainerCapability::TextContainerBehavior::SetValue"
                           },
                           "parameters": [
-                            "Currency",
+                            "CurrencyText",
                             "Text",
                             "=",
-                            "\"Currency:\" + Player.Currency"
+                            "\"Currency:\" + Currency"
                           ]
                         }
                       ]
@@ -7050,10 +7623,9 @@
                       "conditions": [
                         {
                           "type": {
-                            "value": "VarObjet"
+                            "value": "VarGlobal"
                           },
                           "parameters": [
-                            "Player",
                             "Rod",
                             "=",
                             "2"
@@ -7096,10 +7668,9 @@
                       "conditions": [
                         {
                           "type": {
-                            "value": "VarObjet"
+                            "value": "VarGlobal"
                           },
                           "parameters": [
-                            "Player",
                             "Rod",
                             "=",
                             "2"
@@ -7120,10 +7691,9 @@
                         },
                         {
                           "type": {
-                            "value": "ModVarObjet"
+                            "value": "ModVarGlobal"
                           },
                           "parameters": [
-                            "Player",
                             "Rod",
                             "=",
                             "1"
@@ -7359,10 +7929,10 @@
                             "value": "TextContainerCapability::TextContainerBehavior::SetValue"
                           },
                           "parameters": [
-                            "Currency",
+                            "CurrencyText",
                             "Text",
                             "=",
-                            "\"Currency:\" + Player.Currency"
+                            "\"Currency:\" + Currency"
                           ]
                         }
                       ]
@@ -7527,6 +8097,72 @@
           "visibility": false,
           "cameras": [],
           "effects": []
+        },
+        {
+          "ambientLightColorB": 200,
+          "ambientLightColorG": 200,
+          "ambientLightColorR": 200,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 3,
+          "cameraType": "",
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "isLocked": false,
+          "name": "Dialogue2",
+          "renderingType": "",
+          "visibility": false,
+          "cameras": [],
+          "effects": [
+            {
+              "effectType": "Scene3D::HemisphereLight",
+              "name": "3D Light",
+              "doubleParameters": {
+                "elevation": 45,
+                "intensity": 1,
+                "rotation": 0
+              },
+              "stringParameters": {
+                "groundColor": "64;64;64",
+                "skyColor": "255;255;255",
+                "top": "Y-"
+              },
+              "booleanParameters": {}
+            }
+          ]
+        },
+        {
+          "ambientLightColorB": 200,
+          "ambientLightColorG": 200,
+          "ambientLightColorR": 200,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 3,
+          "cameraType": "",
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "isLocked": false,
+          "name": "Dialogue3",
+          "renderingType": "",
+          "visibility": false,
+          "cameras": [],
+          "effects": [
+            {
+              "effectType": "Scene3D::HemisphereLight",
+              "name": "3D Light",
+              "doubleParameters": {
+                "elevation": 45,
+                "intensity": 1,
+                "rotation": 0
+              },
+              "stringParameters": {
+                "groundColor": "64;64;64",
+                "skyColor": "255;255;255",
+                "top": "Y-"
+              },
+              "booleanParameters": {}
+            }
+          ]
         },
         {
           "ambientLightColorB": 15350824,
