@@ -2479,7 +2479,7 @@
       "folded": true,
       "name": "Currency",
       "type": "number",
-      "value": 0
+      "value": 1000
     }
   ],
   "layouts": [
@@ -4820,12 +4820,12 @@
           "angle": 0,
           "customSize": false,
           "height": 0,
-          "layer": "",
-          "name": "Fisherman",
-          "persistentUuid": "6b6b210b-7fdf-4345-9a3d-b834de389736",
+          "layer": "RodShop",
+          "name": "RodDescrip",
+          "persistentUuid": "b5425826-bdbf-49cf-afca-f8092afb2fe7",
           "width": 0,
-          "x": 756,
-          "y": 286,
+          "x": 827,
+          "y": 160,
           "zOrder": 2028,
           "numberProperties": [],
           "stringProperties": [],
@@ -4833,14 +4833,15 @@
         },
         {
           "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "name": "Merchant",
-          "persistentUuid": "85861cd6-b43b-4006-971b-546b449d34a5",
-          "width": 0,
-          "x": 713,
-          "y": 299,
+          "customSize": true,
+          "depth": 1,
+          "height": 69,
+          "layer": "RodShop",
+          "name": "RodDecide",
+          "persistentUuid": "e99c903b-2202-4218-8b72-65b830ca2edd",
+          "width": 190,
+          "x": 824,
+          "y": 249,
           "zOrder": 2029,
           "numberProperties": [],
           "stringProperties": [],
@@ -6528,6 +6529,54 @@
                   ]
                 }
               ]
+            },
+            {
+              "name": "Rod3",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Rod3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 20,
+                            "y": 20
+                          },
+                          {
+                            "x": 280,
+                            "y": 20
+                          },
+                          {
+                            "x": 280,
+                            "y": 310
+                          },
+                          {
+                            "x": 20,
+                            "y": 310
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
             }
           ]
         },
@@ -7400,6 +7449,35 @@
                           }
                         ]
                       ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Rod3",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Rod3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
                     }
                   ]
                 }
@@ -11719,6 +11797,12 @@
             "objectName": "FishText"
           },
           {
+            "objectName": "RodDescrip"
+          },
+          {
+            "objectName": "RodDecide"
+          },
+          {
             "objectName": "CurrencyText"
           },
           {
@@ -12615,6 +12699,12 @@
                             "=",
                             "1"
                           ]
+                        },
+                        {
+                          "type": {
+                            "value": "BuiltinCommonInstructions::Once"
+                          },
+                          "parameters": []
                         }
                       ],
                       "actions": [
@@ -12627,6 +12717,56 @@
                             "Animation",
                             "=",
                             "\"Rod2\""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "ScalableCapability::ScalableBehavior::SetValue"
+                          },
+                          "parameters": [
+                            "ShopImg",
+                            "Scale",
+                            "=",
+                            "0.5"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "VarGlobal"
+                          },
+                          "parameters": [
+                            "Rod",
+                            "=",
+                            "2"
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                          },
+                          "parameters": [
+                            "ShopImg",
+                            "Animation",
+                            "=",
+                            "\"Rod3\""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "ScalableCapability::ScalableBehavior::SetValue"
+                          },
+                          "parameters": [
+                            "ShopImg",
+                            "Scale",
+                            "=",
+                            "3"
                           ]
                         }
                       ]
@@ -12658,6 +12798,103 @@
                           "parameters": [
                             "Rod",
                             "=",
+                            "2"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "VarGlobal"
+                          },
+                          "parameters": [
+                            "Currency",
+                            ">=",
+                            "250"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "BuiltinCommonInstructions::Once"
+                          },
+                          "parameters": []
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                          },
+                          "parameters": [
+                            "FishingRod",
+                            "Animation",
+                            "=",
+                            "\"Rod3\""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                          },
+                          "parameters": [
+                            "CurrencyText",
+                            "Text",
+                            "=",
+                            "\"Currency:\" + Currency"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "ModVarGlobal"
+                          },
+                          "parameters": [
+                            "Rod",
+                            "=",
+                            "3"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "ModVarGlobal"
+                          },
+                          "parameters": [
+                            "Currency",
+                            "+",
+                            "-250"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                          },
+                          "parameters": [
+                            "CurrencyText",
+                            "Text",
+                            "=",
+                            "\"Currency:\" + Currency"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "ScalableCapability::ScalableBehavior::SetValue"
+                          },
+                          "parameters": [
+                            "FishingRod",
+                            "Scale",
+                            "=",
+                            "0.5"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "VarGlobal"
+                          },
+                          "parameters": [
+                            "Rod",
+                            "=",
                             "1"
                           ]
                         },
@@ -12670,6 +12907,12 @@
                             ">=",
                             "150"
                           ]
+                        },
+                        {
+                          "type": {
+                            "value": "BuiltinCommonInstructions::Once"
+                          },
+                          "parameters": []
                         }
                       ],
                       "actions": [
@@ -12725,6 +12968,17 @@
                             "=",
                             "\"Currency:\" + Currency"
                           ]
+                        },
+                        {
+                          "type": {
+                            "value": "ScalableCapability::ScalableBehavior::SetValue"
+                          },
+                          "parameters": [
+                            "FishingRod",
+                            "Scale",
+                            "=",
+                            "0.05"
+                          ]
                         }
                       ]
                     }
@@ -12757,6 +13011,12 @@
                             "=",
                             "2"
                           ]
+                        },
+                        {
+                          "type": {
+                            "value": "BuiltinCommonInstructions::Once"
+                          },
+                          "parameters": []
                         }
                       ],
                       "actions": [
@@ -12769,6 +13029,62 @@
                             "Animation",
                             "=",
                             "\"Rod1\""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "ScalableCapability::ScalableBehavior::SetValue"
+                          },
+                          "parameters": [
+                            "ShopImg",
+                            "Scale",
+                            "=",
+                            "0.5"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "VarGlobal"
+                          },
+                          "parameters": [
+                            "Rod",
+                            "=",
+                            "3"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "BuiltinCommonInstructions::Once"
+                          },
+                          "parameters": []
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                          },
+                          "parameters": [
+                            "ShopImg",
+                            "Animation",
+                            "=",
+                            "\"Rod2\""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "ScalableCapability::ScalableBehavior::SetValue"
+                          },
+                          "parameters": [
+                            "ShopImg",
+                            "Scale",
+                            "=",
+                            "0.5\n"
                           ]
                         }
                       ]
@@ -12802,6 +13118,12 @@
                             "=",
                             "2"
                           ]
+                        },
+                        {
+                          "type": {
+                            "value": "BuiltinCommonInstructions::Once"
+                          },
+                          "parameters": []
                         }
                       ],
                       "actions": [
@@ -12825,8 +13147,79 @@
                             "=",
                             "1"
                           ]
+                        },
+                        {
+                          "type": {
+                            "value": "ScalableCapability::ScalableBehavior::SetValue"
+                          },
+                          "parameters": [
+                            "FishingRod",
+                            "Scale",
+                            "=",
+                            "0.05"
+                          ]
                         }
                       ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "VarGlobal"
+                          },
+                          "parameters": [
+                            "Rod",
+                            "=",
+                            "3"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "BuiltinCommonInstructions::Once"
+                          },
+                          "parameters": []
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                          },
+                          "parameters": [
+                            "FishingRod",
+                            "Animation",
+                            "=",
+                            "\"Rod2\""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "ModVarGlobal"
+                          },
+                          "parameters": [
+                            "Rod",
+                            "=",
+                            "2"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "ScalableCapability::ScalableBehavior::SetValue"
+                          },
+                          "parameters": [
+                            "FishingRod",
+                            "Scale",
+                            "=",
+                            "0.05"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [],
+                      "actions": []
                     }
                   ]
                 },
@@ -13355,7 +13748,7 @@
           "isLocked": false,
           "name": "RodShop",
           "renderingType": "",
-          "visibility": false,
+          "visibility": true,
           "cameras": [],
           "effects": [
             {
@@ -17247,6 +17640,102 @@
                   ]
                 }
               ]
+            },
+            {
+              "name": "rod2",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Rod2.webp",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 20,
+                            "y": 20
+                          },
+                          {
+                            "x": 270,
+                            "y": 20
+                          },
+                          {
+                            "x": 270,
+                            "y": 280
+                          },
+                          {
+                            "x": 20,
+                            "y": 280
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "rod3",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Rod3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 20,
+                            "y": 20
+                          },
+                          {
+                            "x": 270,
+                            "y": 20
+                          },
+                          {
+                            "x": 270,
+                            "y": 280
+                          },
+                          {
+                            "x": 20,
+                            "y": 280
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
             }
           ]
         },
@@ -18109,6 +18598,126 @@
                 ""
               ]
             }
+          ],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "VarGlobal"
+                  },
+                  "parameters": [
+                    "Rod",
+                    "=",
+                    "1\n"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                  },
+                  "parameters": [
+                    "fr2",
+                    "Animation",
+                    "=",
+                    "\"fishing_rod3\""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "VarGlobal"
+                  },
+                  "parameters": [
+                    "Rod",
+                    "=",
+                    "2"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                  },
+                  "parameters": [
+                    "fr2",
+                    "Animation",
+                    "=",
+                    "\"rod2\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ScalableCapability::ScalableBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "fr2",
+                    "Scale",
+                    "=",
+                    "0.25"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "MettreXY"
+                  },
+                  "parameters": [
+                    "hook",
+                    "+",
+                    "-26",
+                    "+",
+                    "50"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "VarGlobal"
+                  },
+                  "parameters": [
+                    "Rod",
+                    "=",
+                    "3"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                  },
+                  "parameters": [
+                    "fr2",
+                    "Animation",
+                    "=",
+                    "\"rod3\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ScalableCapability::ScalableBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "fr2",
+                    "Scale",
+                    "=",
+                    "2"
+                  ]
+                }
+              ]
+            }
           ]
         },
         {
@@ -18258,6 +18867,18 @@
             },
             {
               "type": {
+                "value": "PosY"
+              },
+              "parameters": [
+                "hook",
+                "<",
+                "500"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
                 "value": "Physics2::LinearVelocityX"
               },
               "parameters": [
@@ -18316,6 +18937,16 @@
                 "Rod",
                 "=",
                 "2"
+              ]
+            },
+            {
+              "type": {
+                "value": "PosY"
+              },
+              "parameters": [
+                "hook",
+                ">",
+                "200"
               ]
             }
           ],
